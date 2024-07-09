@@ -153,7 +153,8 @@ a {
   text-decoration: none; }
   a:hover {
     background-color: #f0b35d;
-    color: #242424; }
+    color: #242424;
+    height: auto; }
 
 h1,
 h2,
