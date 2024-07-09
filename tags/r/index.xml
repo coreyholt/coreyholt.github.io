@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on </title>
-    <link>/tags/r/</link>
+    <link>//localhost:1313/tags/r/</link>
     <description>Recent content in R on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Useful resources for data analysis</title>
-      <link>/posts/usefulresourcesformicrobiomeanalysis/</link>
+      <link>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/usefulresourcesformicrobiomeanalysis/</guid>
+      <guid>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</guid>
       <description>Microbiomes: DADA2 I like to analyse all of my microbiome data directly in R with the Benjamin Callahan&#39;s DADA2 package. This is an Amplicon Sequence Variants (ASV) approach, relying on fancy run-specific error models for denoising. The DADA2 tutorial is a great place to start if you&#39;re interested in this method.&#xA;Metagenomes and MAGs: Anvio Meren and friends have built an immense resource for analysing metagenomes and metagenome-assembled genomes (MAGs).</description>
     </item>
   </channel>

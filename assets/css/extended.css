@@ -1,0 +1,528 @@
+/* Ensure no horizontal scrolling */
+html, body {
+  overflow-x: hidden;
+  width: 100vw;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  overflow-x: visible;
+  width: 100%;
+  height:100vh
+  position: relative; /* Ensure correct positioning context */
+}
+
+.container {
+  max-width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+/* Existing styles */
+.about-summary {
+  background: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  padding: 5px; 
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  margin-bottom: 100px;
+  margin-top: 180px;
+  display: flex; /* Use flexbox for layout control */
+  align-items: center; /* Center items vertically */
+  opacity: 0; /* Initially hidden */
+  transform: translateY(50px); /* Initially translated down */
+  transition: opacity 1s ease-out, transform 1s ease-out; /* Transition properties */
+}
+
+.about-summary.fade-in {
+  opacity: 1; /* Faded in */
+  transform: translateY(0); /* Raised up */
+}
+
+.about-summary:hover {
+  transform: scale(1.01); /* Scale up the item */
+}
+
+.about-summary h1 {
+  margin-left: 18px;
+  margin-bottom: -10px;
+}
+
+.about-content {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.about-photo {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+
+.about-photo img {
+  max-width: 200px; /* Adjust the size as needed */
+  height: auto;
+  border-radius: 50%;
+  border: #ffffff 5px solid;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1); 
+}
+
+.about-text {
+  flex-grow: 1;
+}
+
+@media (max-width: 480px) {
+  .about-summary {
+    flex-direction: column-reverse; /* Reverse the order on mobile */
+  }
+
+  .about-photo {
+    align-self: center; /* Center align the photo */
+    order: 1; /* Ensure photo comes after text */
+  }
+
+  .about-text {
+    margin-top: -20px;
+    order: 0; /* Ensure text comes before photo */
+  }
+}
+
+/* Ensure latest-news-section doesn't overflow */
+.latest-news-section {
+  text-align: left;
+  padding: 20px;
+  margin-bottom: 100px;
+  background: repeating-linear-gradient(
+  -45deg,
+  rgba(254, 254, 254, 0), 
+  rgba(254, 254, 254, 0) 20px,
+  rgba(220, 220, 220, 0.5) 20px,
+  rgba(220, 220, 220, 0.5) 40px
+);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.latest-news-section h2 {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.latest-news {
+  margin: 10px 0;
+}
+
+.latest-news h3 {
+  margin: 0;
+}
+
+.latest-news p {
+  margin: 5px 0;
+}
+
+.dashed-line {
+  border-top: 5px solid #ffff;
+  margin: 20px 0;
+}
+
+.intro-content {
+  margin-bottom: 60px;
+  h1 {
+    font-size: 48px;
+    line-height: 56spx;
+    margin-top: 0;
+    margin-bottom: 30px;
+    background-color: #f0b35d;
+    @include breakpoint('small') {
+      width: 80%;
+      font-size: 88px;
+      line-height: 94px;
+      margin-bottom: 20px;
+    }
+    strong {
+      color: var(--highlight-color);
+    }
+  }
+  h2 {
+    font-size: 50px;
+    line-height: 56px;
+    background-color: #f0b35d;
+    @include breakpoint('small') {
+      width: 80%;
+    }
+  }
+  p {
+    font-size: 20px;
+    line-height: 26px;
+    background-color: #f0b35d;
+    @include breakpoint('small') {
+      width: 80%;
+      font-size: 22px;
+      line-height: 32px;
+    }
+  }
+  .read-more {
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: bold;
+    @include breakpoint('small') {
+      font-size: 22px;
+      line-height: 32px;
+    }
+  }
+  img {
+    max-width: 100%;
+  }
+}
+
+/* Home page */
+.intro {
+  position: relative;
+  z-index: 1; /* Ensure intro content is above the images */
+}
+
+.image-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw; /* Restrict width to viewport */
+  height: 100vh;
+  pointer-events: none; /* Makes the container and its children non-interactive */
+  overflow: visible; /* Ensure floating images stay within viewport */
+  z-index: -1; /* Ensure images are behind all other content */
+}
+
+.image-box {
+  position: absolute;
+  pointer-events: auto; /* Makes the image-box interactive */
+  overflow: visible; /* Allow images to overflow */
+}
+
+#kino {
+  top: 8rem;
+  left: 55%;
+  width: 175px; /* Adjust width independently */
+}
+
+#cope {
+  top: 80rem;
+  left: 65%;
+  width: 275px; /* Adjust width independently */
+  rotate: -10deg;
+}
+
+#scypho {
+  top: 25rem;
+  left: 40%;
+  width: 180px; /* Adjust width independently */
+}
+
+#malv1 {
+  top: 120rem;
+  left: 65%;
+  width: 175px; /* Adjust width independently */
+  rotate: -50deg;
+}
+
+#ptero {
+  top: 70rem;
+  left: 55%;
+  width: 225px; /* Adjust width independently */
+}
+
+#poly {
+  top: 20rem;
+  left: 50%;
+  width: 550px; /* Adjust width independently */
+}
+
+#cucum {
+  top: 108rem;
+  left: 75%;
+  width: 110px; /* Adjust width independently */
+  rotate: 90deg;
+}
+
+.image-box img {
+  width: 100%; /* Use 100% to fit the container size */
+  height: auto;
+}
+
+@media (max-width: 480px) {
+  #kino {
+    top: 15%;
+    left: 50%;
+    width: 100px; /* Smaller size for mobile */
+    rotate: -20deg;
+  }
+
+  #cope {
+    top: 220%;
+    left: 50%;
+    width: 150px; /* Smaller size for mobile */
+  }
+
+  #scypho {
+    top: 50%;
+    left: 25%;
+    width: 90px; /* Smaller size for mobile */
+  }
+
+  #malv1 {
+    top: 310%;
+    left: 50%;
+    width: 100px; /* Smaller size for mobile */
+  }
+
+  #ptero {
+    top: 190%;
+    left: 45%;
+    width: 150px; /* Smaller size for mobile */
+  }
+
+  #poly {
+    top: 40%;
+    left: 25%;
+    width: 325px; /* Smaller size for mobile */
+    rotate: -20deg;
+  }
+
+  #cucum {
+    top: 290%;
+    left: 70%;
+    width: 60px; /* Smaller size for mobile */
+  }
+}
+
+/* About page */
+.about img {
+  box-sizing: border-box; 
+  border-radius: 10px; 
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.about img[src$='#floatleft']
+{
+  float:left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+
+  @media (max-width: 767px)  {
+    display:none;
+  }
+  
+}
+
+.about img[src$='#floatright']
+{
+  float:right;
+  margin-left:20px;
+  margin-bottom:20px;
+
+  @media (max-width: 767px)  {
+    display:none;
+  }
+}
+
+.about img[src$='#hide']
+{
+  display: none;
+
+@media (max-width: 767px) {
+  display: block;
+  }
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.gallery-item {
+  position: relative;
+  overflow: hidden;
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gallery-item figcaption {
+  color: black;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 5px; 
+  border-radius: 5px;
+  box-shadow: 0 0 2px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 767px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+  }
+}
+
+.link-preview {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.thumbnail-container {
+  width: 100%;
+}
+
+
+.screenshot-link {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.link-thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  display: block; 
+  align-self: centre;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.link-info {
+  padding: 10px;
+  margin:-5px;
+  background: #fff;
+  margin-top: -60px;box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  z-index: 1;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+}
+
+.link-info h3 {
+  margin: 0;
+}
+
+.link-info p {
+  margin: 0;
+  color: #555;
+}
+
+.link-text {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link-text:hover {
+  text-decoration: underline;
+}
+
+.link-info:hover{
+  transform: scale(1.01); /* Scale up the item */
+}
+
+.package-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  overflow: visible;  
+}
+
+.package-item {
+  padding: 15px;
+  border: 1px solid #ddd;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  background: rgba(255, 255, 255, 0.5);
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+}
+
+.package-item h3 {
+  margin: 0 0 10px;
+}
+
+.package-item a {
+  text-decoration: none;
+}
+
+.package-item:hover {
+  transform: scale(1.01); /* Scale up the item */
+  box-shadow: 0 0 15px rgba(0,0,0,0.2); /* Enhance the shadow for better focus */
+}
+
+.package-item p {
+  margin: 0;
+}
+
+.badge-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;  /* Adjust this value to increase or decrease the space between badges */
+  margin-top: 20px; /* Adds vertical space between the content and badges */
+}
+
+.badge-container, .badge-container * {
+  transition: none;  /* Disables smooth transitions on hover */
+  box-shadow: none;  /* Removes any shadows on hover */
+  transform: none;  /* Prevents transformations on hover */
+}
+
+.badge-container:hover, .badge-container *:hover {
+  background-color: transparent; /* Keeps background color unchanged on hover */
+  box-shadow: none;  /* Ensures no shadow appears on hover */
+}
+
+/* Ensure these styles are included in your existing CSS file */
+
+
+#package-search {
+  margin: -10px auto; /* Center horizontally */
+  padding: 10px;
+  width: 95%; /* Adjust the width as needed */
+  box-sizing: border-box;
+  display: block; /* Ensure it's a block element for centering */
+  background-color: rgba(255, 255, 255, 0); /* Transparent background */
+  border: rgba(255, 255, 255, 0); /* Border to make it visible */
+  border-radius: 5px; /* Rounded corners */
+  text-align: left; /* Center placeholder text */
+  font-size: 16px; /* Adjust the font size */
+}
+
+#publication-search {
+  margin: -10px auto; /* Center horizontally */
+  padding: 10px;
+  width: 95%; /* Adjust the width as needed */
+  box-sizing: border-box;
+  display: block; /* Ensure it's a block element for centering */
+  background-color: rgba(255, 255, 255, 0); /* Transparent background */
+  border: rgba(255, 255, 255, 0); /* Border to make it visible */
+  border-radius: 5px; /* Rounded corners */
+  text-align: left; /* Center placeholder text */
+  font-size: 16px; /* Adjust the font size */
+}

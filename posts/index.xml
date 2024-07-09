@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Useful resources for data analysis</title>
-      <link>/posts/usefulresourcesformicrobiomeanalysis/</link>
+      <link>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/usefulresourcesformicrobiomeanalysis/</guid>
+      <guid>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</guid>
       <description>Microbiomes: DADA2 I like to analyse all of my microbiome data directly in R with the Benjamin Callahan&#39;s DADA2 package. This is an Amplicon Sequence Variants (ASV) approach, relying on fancy run-specific error models for denoising. The DADA2 tutorial is a great place to start if you&#39;re interested in this method.&#xA;Metagenomes and MAGs: Anvio Meren and friends have built an immense resource for analysing metagenomes and metagenome-assembled genomes (MAGs).</description>
     </item>
     <item>
       <title>I made a website</title>
-      <link>/posts/ln1-27june2024/</link>
+      <link>//localhost:1313/posts/ln1-27june2024/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/ln1-27june2024/</guid>
+      <guid>//localhost:1313/posts/ln1-27june2024/</guid>
       <description>Now seemed like a good time to make a website. I wanted something that could be easily updated and personalised (hence the floating protists and invertebrates).&#xA;A landed on Hugo, a popular framework for generating static sites, and messed around with the winston-theme as best as I could. Don&amp;rsquo;t laugh at my butchered html and css files.</description>
     </item>
   </channel>

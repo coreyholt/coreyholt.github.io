@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oomycetes on </title>
-    <link>/tags/oomycetes/</link>
+    <link>//localhost:1313/tags/oomycetes/</link>
     <description>Recent content in Oomycetes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/oomycetes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/oomycetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Halioticida noduliformans infection in eggs of lobster (Homarus gammarus) reveals its generalist parasitic strategy in marine invertebrates</title>
-      <link>/publications/holt_2018_jip/</link>
+      <link>//localhost:1313/publications/holt_2018_jip/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publications/holt_2018_jip/</guid>
+      <guid>//localhost:1313/publications/holt_2018_jip/</guid>
       <description>Holt C, Foster R, Daniels CL, van der Giezen M, Feist SW, Stentiford GD, Bass D. A parasite exhibiting Oomycete-like morphology and pathogenesis was isolated from discoloured eggs of the European lobster (Homarus gammarus) and later found in gill tissues of adults. Group-specific Oomycete primers were designed to amplify the 18S ribosomal small subunit (SSU), which initially identified the organism as the same as the ‘Haliphthoros’ sp. NJM 0034 strain (AB178865.</description>
     </item>
   </channel>
