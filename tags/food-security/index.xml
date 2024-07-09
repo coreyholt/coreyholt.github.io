@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food Security on </title>
-    <link>//localhost:1313/tags/food-security/</link>
+    <link>/tags/food-security/</link>
     <description>Recent content in Food Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/food-security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/food-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defining and averting syndemic pathways in aquaculture: a major global food sector</title>
-      <link>//localhost:1313/publications/stentiford_2023_fronsusfood/</link>
+      <link>/publications/stentiford_2023_fronsusfood/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/stentiford_2023_fronsusfood/</guid>
+      <guid>/publications/stentiford_2023_fronsusfood/</guid>
       <description>Stentiford GD, Tyler CR, Ellis RP, Bean TP, MacKenzie S, Brugere C, Holt CC, Peeler EJ, Christison KW, Rushton J, Bass D. Aquaculture now provides half of all aquatic protein consumed globally—with most current and future production occurring in low- and middle-income countries (LMICs). Concerns over the availability and application of effective policies to deliver safe and sustainable future supply have the potential to hamper further development of the sector. Creating healthy systems must extend beyond the simple exclusion of disease agents to tackle the host, environmental, and human drivers of poor outcomes and build new policies that incorporate these broader drivers.</description>
     </item>
     <item>
       <title>Global adoption of aquaculture to supply seafood</title>
-      <link>//localhost:1313/publications/stentiford_2022_erl/</link>
+      <link>/publications/stentiford_2022_erl/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/stentiford_2022_erl/</guid>
+      <guid>/publications/stentiford_2022_erl/</guid>
       <description>Stentiford GD, Holt CC. No abstract! Weird, eh?&#xA;Read the paper here Stentiford GD, Holt CC. Global adoption of aquaculture to supply seafood. Environmental Research Letters. 2022 Mar 21;17(4):041003.</description>
     </item>
     <item>
       <title>A seafood risk tool for assessing and mitigating chemical and pathogen hazards in the aquaculture supply chain</title>
-      <link>//localhost:1313/publications/stentiford_2022_naturefood/</link>
+      <link>/publications/stentiford_2022_naturefood/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/stentiford_2022_naturefood/</guid>
+      <guid>/publications/stentiford_2022_naturefood/</guid>
       <description>Stentiford GD, Peeler EJ, Tyler CR, Bickley LK, Holt CC, Bass D, Turner AD, Baker-Austin C, Ellis T, Lowther JA, Posen PE, Bateman KS, Verner-Jeffreys DW, van van Aerle R, Stone DM, Paley R, Trent A, Katsiadaki I, Higman WG, Maskrey BH, Devlin MJ, Lyons BP, Hartnell DM, Younger AD, Bersuder P, Warford L, Losada S, Clarke K, Hynes C, Dewar A, Greenhill B, Huk M, Franks J, Dal-Molin F, Hartnell RE.</description>
     </item>
   </channel>
