@@ -13,7 +13,7 @@
       <link>/posts/usefulresourcesformicrobiomeanalysis/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       <guid>/posts/usefulresourcesformicrobiomeanalysis/</guid>
-      <description>Microbiomes: DADA2 I like to analyse all of my microbiome data directly in R with the Benjamin Callahan&#39;s DADA2 package. This is an Amplicon Sequence Variants (ASV) approach, relying on fancy run-specific error models for denoising. The DADA2 tutorial is a great place to start if you&#39;re interested in this method.&#xA;Metagenomes and MAGs: Anvio Meren and friends have built an immense resource for analysing metagenomes and metagenome-assembled genomes (MAGs).</description>
+      <description>Microbiomes: DADA2 I like to analyse all of my microbiome data directly in R with the Benjamin Callahan&#39;s DADA2 package. This is an Amplicon Sequence Variant (ASV) approach (meaning reads aren&#39;t clustered according to a similarity threshold) and relies on fancy run-specific error models to denoise data and limit overestimations of sequence diversity. The DADA2 tutorial is a great place to start if you&#39;re interested in this method.&#xA;Metagenomes and MAGs: Anvio Meren and friends have built an immense resource for analysing metagenomes and metagenome-assembled genomes (MAGs).</description>
     </item>
     <item>
       <title>Investigation of heterotrophs reveals new insights in dinoflagellate evolution</title>
