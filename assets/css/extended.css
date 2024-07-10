@@ -5,11 +5,18 @@ html, body {
   box-sizing: border-box;
 }
 
-.wrapper {
+.homepage {
   overflow-x: visible;
   width: 100%;
-  height:100vh
-  position: relative; /* Ensure correct positioning context */
+  height: 100%;
+  position: relative; /* Ensure correct positioning context */;
+}
+
+.homepage-text {
+  width: 100%;
+  max-width: 100vw;
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 .container {
@@ -18,8 +25,11 @@ html, body {
   box-sizing: border-box;
 }
 
+
 /* Existing styles */
 .about-summary {
+  margin-left:10px;
+  margin-right:10px;
   background: rgba(255, 255, 255, 0.5);
   box-sizing: border-box;
   padding: 5px; 
@@ -187,60 +197,61 @@ html, body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100vw; /* Restrict width to viewport */
-  height: 100vh;
+  width: 100%; /* Restrict width to viewport */
+  height: 100%;
   pointer-events: none; /* Makes the container and its children non-interactive */
   overflow: visible; /* Ensure floating images stay within viewport */
   z-index: -1; /* Ensure images are behind all other content */
 }
 
+
+
 .image-box {
   position: absolute;
-  pointer-events: auto; /* Makes the image-box interactive */
   overflow: visible; /* Allow images to overflow */
 }
 
 #kino {
-  top: 8rem;
+  top: 3%;
   left: 55%;
   width: 175px; /* Adjust width independently */
 }
 
 #cope {
-  top: 80rem;
+  top: 60%;
   left: 65%;
   width: 275px; /* Adjust width independently */
   rotate: -10deg;
 }
 
 #scypho {
-  top: 25rem;
+  top: 16%;
   left: 40%;
   width: 180px; /* Adjust width independently */
 }
 
 #malv1 {
-  top: 120rem;
-  left: 65%;
+  top: 90%;
+  left: 75%;
   width: 175px; /* Adjust width independently */
   rotate: -50deg;
 }
 
 #ptero {
-  top: 70rem;
+  top: 50%;
   left: 55%;
   width: 225px; /* Adjust width independently */
 }
 
 #poly {
-  top: 20rem;
+  top: 10%;
   left: 50%;
   width: 550px; /* Adjust width independently */
 }
 
 #cucum {
-  top: 108rem;
-  left: 75%;
+  top: 80%;
+  left: 80%;
   width: 110px; /* Adjust width independently */
   rotate: 90deg;
 }
@@ -250,50 +261,98 @@ html, body {
   height: auto;
 }
 
+@media (max-width: 767px) {
+  #kino {
+    top: 1%;
+    left: 45%;
+    width: 150px ; /* Adjust width independently */
+  }
+  
+  #cope {
+    top: 65%;
+    left: 65%;
+    width: 225px; /* Adjust width independently */
+    rotate: -10deg;
+  }
+  
+  #scypho {
+    top: 14%;
+    left: 15%;
+    width: 130px; /* Adjust width independently */
+  }
+  
+  #malv1 {
+    top: 90%;
+    left: 75%;
+    width: 150px; /* Adjust width independently */
+    rotate: -50deg;
+  }
+  
+  #ptero {
+    top: 55%;
+    left: 55%;
+    width: 200px; /* Adjust width independently */
+  }
+  
+  #poly {
+    top: 10%;
+    left: 10%;
+    width: 525px; /* Adjust width independently */
+  }
+  
+  #cucum {
+    top: 83%;
+    left: 80%;
+    width: 85px; /* Adjust width independently */
+    rotate: 90deg;
+  }
+}
+
 @media (max-width: 480px) {
   #kino {
-    top: 15%;
+    top: 3%;
     left: 50%;
     width: 100px; /* Smaller size for mobile */
     rotate: -20deg;
   }
 
   #cope {
-    top: 220%;
-    left: 50%;
+    top: 70%;
+    left: 60%;
     width: 150px; /* Smaller size for mobile */
   }
 
   #scypho {
-    top: 50%;
-    left: 25%;
+    top: 12%;
+    left: 30%;
     width: 90px; /* Smaller size for mobile */
   }
 
   #malv1 {
-    top: 310%;
-    left: 50%;
+    top: 90%;
+    left: 60%;
     width: 100px; /* Smaller size for mobile */
   }
 
   #ptero {
-    top: 190%;
+    top: 53%;
     left: 45%;
     width: 150px; /* Smaller size for mobile */
   }
 
   #poly {
-    top: 40%;
-    left: 25%;
+    top: 10%;
+    left: 27%;
     width: 325px; /* Smaller size for mobile */
     rotate: -20deg;
   }
 
   #cucum {
-    top: 290%;
-    left: 70%;
+    top: 85%;
+    left: 75%;
     width: 60px; /* Smaller size for mobile */
   }
+
 }
 
 /* About page */
@@ -336,51 +395,7 @@ html, body {
   }
 }
 
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-  padding: 20px;
-  box-sizing: border-box;
-  max-width: 100%;
-}
-
-.gallery-item {
-  position: relative;
-  overflow: hidden;
-}
-
-.gallery-item img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.gallery-item figcaption {
-  color: black;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  box-sizing: border-box;
-  background: rgba(255, 255, 255, 0.5);
-  padding: 5px; 
-  border-radius: 5px;
-  box-shadow: 0 0 2px rgba(0,0,0,0.1);
-}
-
-@media (max-width: 767px) {
-  .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 10px;
-  }
-}
-
+# Posts
 .link-preview {
   display: flex;
   flex-direction: column;
@@ -393,7 +408,6 @@ body {
 .thumbnail-container {
   width: 100%;
 }
-
 
 .screenshot-link {
   display: block;
@@ -497,9 +511,6 @@ body {
   background-color: transparent; /* Keeps background color unchanged on hover */
   box-shadow: none;  /* Ensures no shadow appears on hover */
 }
-
-/* Ensure these styles are included in your existing CSS file */
-
 
 #package-search {
   margin: -10px auto; /* Center horizontally */

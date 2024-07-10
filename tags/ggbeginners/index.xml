@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ggbeginners on </title>
-    <link>http://128.189.147.53:1313/tags/ggbeginners/</link>
+    <link>http://128.189.144.17:1313/tags/ggbeginners/</link>
     <description>Recent content in Ggbeginners on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://128.189.147.53:1313/tags/ggbeginners/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://128.189.144.17:1313/tags/ggbeginners/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making BUSCO pretty</title>
-      <link>http://128.189.147.53:1313/posts/ggbeginners_busco/</link>
+      <link>http://128.189.144.17:1313/posts/ggbeginners_busco/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://128.189.147.53:1313/posts/ggbeginners_busco/</guid>
+      <guid>http://128.189.144.17:1313/posts/ggbeginners_busco/</guid>
       <description>What is BUSCO? Benchmarking sets of Universal Single-Copy Orthologs (or BUSCO) is a common method used to estimate the completeness and contamintation of a genome/transcriptome/proteome by counting a set number of genes that should only appear once in your dataset. See the user guide to give it a go yourself.&#xA;The pipeline produces a pretty decent plot but let&amp;rsquo;s make our own &amp;hellip; Setting up RStudio I typically work in RStudio, particularly for data visualisation.</description>
     </item>
     <item>
       <title>Plotting phylogenies in R</title>
-      <link>http://128.189.147.53:1313/posts/ggbeginners_phylogenetictrees/</link>
+      <link>http://128.189.144.17:1313/posts/ggbeginners_phylogenetictrees/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://128.189.147.53:1313/posts/ggbeginners_phylogenetictrees/</guid>
+      <guid>http://128.189.144.17:1313/posts/ggbeginners_phylogenetictrees/</guid>
       <description># Load required libraries library(tidyverse) library(ape) library(ggtree) library(ggtreeExtra) library(ggnewscale) library(gginnards) library(treeio) # Define color palette for BUSCO status pal.BUSCO &amp;lt;- c(Complete = &amp;#34;#36AE7C&amp;#34;, Duplicated = &amp;#34;#187498&amp;#34;, Fragmented = &amp;#34;#F9D923&amp;#34;, Missing = &amp;#34;#EB5353&amp;#34;) # Read in tree file. Use read.iqtree for .contree files. # Alternatively, use path to treefile tree &amp;lt;- read.tree(text=&amp;#39;((A, B)100, ((C, D)89, (E, F)90)70)100;&amp;#39;) # Or use read.iqtree from the treeio package for .contree files using the path to the file # Create ggtree object of the tree and add tip labels and node labels ggtree(tree)+ geom_tiplab()+ # Add tip labels geom_nodelab() # Add node labels # Read in metadata for BUSCO analysis meta.</description>
     </item>
   </channel>
