@@ -1,4 +1,3 @@
-/* Ensure no horizontal scrolling */
 html, body {
   overflow-x: hidden;
   width: 100vw;
@@ -9,7 +8,7 @@ html, body {
   overflow-x: visible;
   width: 100%;
   height: 100%;
-  position: relative; /* Ensure correct positioning context */;
+  position: relative;
 }
 
 .homepage-text {
@@ -25,8 +24,6 @@ html, body {
   box-sizing: border-box;
 }
 
-
-/* Existing styles */
 .about-summary {
   margin-left:10px;
   margin-right:10px;
@@ -37,20 +34,20 @@ html, body {
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
   margin-bottom: 100px;
   margin-top: 180px;
-  display: flex; /* Use flexbox for layout control */
-  align-items: center; /* Center items vertically */
-  opacity: 0; /* Initially hidden */
-  transform: translateY(50px); /* Initially translated down */
-  transition: opacity 1s ease-out, transform 1s ease-out; /* Transition properties */
+  display: flex; 
+  align-items: center; 
+  opacity: 0;
+  transform: translateY(50px); 
+  transition: opacity 1s ease-out, transform 1s ease-out;
 }
 
 .about-summary.fade-in {
-  opacity: 1; /* Faded in */
-  transform: translateY(0); /* Raised up */
+  opacity: 1; 
+  transform: translateY(0); 
 }
 
 .about-summary:hover {
-  transform: scale(1.01); /* Scale up the item */
+  transform: scale(1.01);
 }
 
 .about-summary h1 {
@@ -72,7 +69,7 @@ html, body {
 }
 
 .about-photo img {
-  max-width: 200px; /* Adjust the size as needed */
+  max-width: 200px;
   height: auto;
   border-radius: 50%;
   border: #ffffff 5px solid;
@@ -85,21 +82,20 @@ html, body {
 
 @media (max-width: 480px) {
   .about-summary {
-    flex-direction: column-reverse; /* Reverse the order on mobile */
+    flex-direction: column-reverse;
   }
 
   .about-photo {
-    align-self: center; /* Center align the photo */
-    order: 1; /* Ensure photo comes after text */
+    align-self: center;
+    order: 1;
   }
 
   .about-text {
     margin-top: -20px;
-    order: 0; /* Ensure text comes before photo */
+    order: 0; 
   }
 }
 
-/* Ensure latest-news-section doesn't overflow */
 .latest-news-section {
   text-align: left;
   padding: 20px;
@@ -187,77 +183,74 @@ html, body {
   }
 }
 
-/* Home page */
 .intro {
   position: relative;
-  z-index: 1; /* Ensure intro content is above the images */
+  z-index: 1; 
 }
 
 .image-container {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%; /* Restrict width to viewport */
+  width: 100%;
   height: 100%;
-  pointer-events: none; /* Makes the container and its children non-interactive */
-  overflow: visible; /* Ensure floating images stay within viewport */
-  z-index: -1; /* Ensure images are behind all other content */
+  pointer-events: none;
+  overflow: visible;
+  z-index: -1;
 }
-
-
 
 .image-box {
   position: absolute;
-  overflow: visible; /* Allow images to overflow */
+  overflow: visible; 
 }
 
 #kino {
   top: 3%;
   left: 55%;
-  width: 175px; /* Adjust width independently */
+  width: 175px;
 }
 
 #cope {
   top: 60%;
   left: 65%;
-  width: 275px; /* Adjust width independently */
+  width: 275px;
   rotate: -10deg;
 }
 
 #scypho {
   top: 16%;
   left: 40%;
-  width: 180px; /* Adjust width independently */
+  width: 180px; 
 }
 
 #malv1 {
   top: 90%;
   left: 75%;
-  width: 175px; /* Adjust width independently */
+  width: 175px; 
   rotate: -50deg;
 }
 
 #ptero {
   top: 50%;
   left: 55%;
-  width: 225px; /* Adjust width independently */
+  width: 225px; 
 }
 
 #poly {
   top: 10%;
   left: 50%;
-  width: 550px; /* Adjust width independently */
+  width: 550px; 
 }
 
 #cucum {
   top: 80%;
   left: 80%;
-  width: 110px; /* Adjust width independently */
+  width: 110px; 
   rotate: 90deg;
 }
 
 .image-box img {
-  width: 100%; /* Use 100% to fit the container size */
+  width: 100%; 
   height: auto;
 }
 
@@ -265,45 +258,45 @@ html, body {
   #kino {
     top: 1%;
     left: 45%;
-    width: 150px ; /* Adjust width independently */
+    width: 150px ; 
   }
   
   #cope {
     top: 65%;
     left: 65%;
-    width: 225px; /* Adjust width independently */
+    width: 225px;
     rotate: -10deg;
   }
   
   #scypho {
     top: 14%;
     left: 15%;
-    width: 130px; /* Adjust width independently */
+    width: 130px;
   }
   
   #malv1 {
     top: 90%;
     left: 75%;
-    width: 150px; /* Adjust width independently */
+    width: 150px;
     rotate: -50deg;
   }
   
   #ptero {
     top: 55%;
     left: 55%;
-    width: 200px; /* Adjust width independently */
+    width: 200px;
   }
   
   #poly {
     top: 10%;
     left: 10%;
-    width: 525px; /* Adjust width independently */
+    width: 525px; 
   }
   
   #cucum {
     top: 83%;
     left: 80%;
-    width: 85px; /* Adjust width independently */
+    width: 85px; 
     rotate: 90deg;
   }
 }
@@ -312,50 +305,49 @@ html, body {
   #kino {
     top: 3%;
     left: 50%;
-    width: 100px; /* Smaller size for mobile */
+    width: 100px; 
     rotate: -20deg;
   }
 
   #cope {
     top: 70%;
     left: 60%;
-    width: 150px; /* Smaller size for mobile */
+    width: 150px;
   }
 
   #scypho {
     top: 12%;
     left: 30%;
-    width: 90px; /* Smaller size for mobile */
+    width: 90px;
   }
 
   #malv1 {
     top: 90%;
     left: 60%;
-    width: 100px; /* Smaller size for mobile */
+    width: 100px;
   }
 
   #ptero {
     top: 53%;
     left: 45%;
-    width: 150px; /* Smaller size for mobile */
+    width: 150px;
   }
 
   #poly {
     top: 10%;
     left: 27%;
-    width: 325px; /* Smaller size for mobile */
+    width: 325px;
     rotate: -20deg;
   }
 
   #cucum {
     top: 85%;
     left: 75%;
-    width: 60px; /* Smaller size for mobile */
+    width: 60px;
   }
 
 }
 
-/* About page */
 .about img {
   box-sizing: border-box; 
   border-radius: 10px; 
@@ -395,7 +387,6 @@ html, body {
   }
 }
 
-# Posts
 .link-preview {
   display: flex;
   flex-direction: column;
@@ -433,7 +424,7 @@ html, body {
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
   z-index: 1;
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .link-info h3 {
@@ -455,7 +446,7 @@ html, body {
 }
 
 .link-info:hover{
-  transform: scale(1.01); /* Scale up the item */
+  transform: scale(1.01);
 }
 
 .package-grid {
@@ -473,7 +464,7 @@ html, body {
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
   background: rgba(255, 255, 255, 0.5);
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
 
 .package-item h3 {
@@ -485,8 +476,8 @@ html, body {
 }
 
 .package-item:hover {
-  transform: scale(1.01); /* Scale up the item */
-  box-shadow: 0 0 15px rgba(0,0,0,0.2); /* Enhance the shadow for better focus */
+  transform: scale(1.01); 
+  box-shadow: 0 0 15px rgba(0,0,0,0.2); 
 }
 
 .package-item p {
@@ -497,43 +488,43 @@ html, body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 15px;  /* Adjust this value to increase or decrease the space between badges */
-  margin-top: 20px; /* Adds vertical space between the content and badges */
+  gap: 15px; 
+  margin-top: 20px; 
 }
 
 .badge-container, .badge-container * {
-  transition: none;  /* Disables smooth transitions on hover */
-  box-shadow: none;  /* Removes any shadows on hover */
-  transform: none;  /* Prevents transformations on hover */
+  transition: none; 
+  box-shadow: none;
+  transform: none; 
 }
 
 .badge-container:hover, .badge-container *:hover {
-  background-color: transparent; /* Keeps background color unchanged on hover */
-  box-shadow: none;  /* Ensures no shadow appears on hover */
+  background-color: transparent;
+  box-shadow: none; 
 }
 
 #package-search {
-  margin: -10px auto; /* Center horizontally */
+  margin: -10px auto; 
   padding: 10px;
-  width: 95%; /* Adjust the width as needed */
+  width: 95%;
   box-sizing: border-box;
-  display: block; /* Ensure it's a block element for centering */
-  background-color: rgba(255, 255, 255, 0); /* Transparent background */
-  border: rgba(255, 255, 255, 0); /* Border to make it visible */
-  border-radius: 5px; /* Rounded corners */
-  text-align: left; /* Center placeholder text */
-  font-size: 16px; /* Adjust the font size */
+  display: block; 
+  background-color: rgba(255, 255, 255, 0); 
+  border: rgba(255, 255, 255, 0); 
+  border-radius: 5px; 
+  text-align: left; 
+  font-size: 16px; 
 }
 
 #publication-search {
-  margin: -10px auto; /* Center horizontally */
+  margin: -10px auto; 
   padding: 10px;
-  width: 95%; /* Adjust the width as needed */
+  width: 95%; 
   box-sizing: border-box;
-  display: block; /* Ensure it's a block element for centering */
-  background-color: rgba(255, 255, 255, 0); /* Transparent background */
-  border: rgba(255, 255, 255, 0); /* Border to make it visible */
-  border-radius: 5px; /* Rounded corners */
-  text-align: left; /* Center placeholder text */
-  font-size: 16px; /* Adjust the font size */
+  display: block; 
+  background-color: rgba(255, 255, 255, 0); 
+  border: rgba(255, 255, 255, 0); 
+  border-radius: 5px; 
+  text-align: left; 
+  font-size: 16px; 
 }
