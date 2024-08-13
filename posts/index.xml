@@ -6,8 +6,15 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new paper and an unconventional host</title>
+      <link>/posts/ln2-12sep2024/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/ln2-12sep2024/</guid>
+      <description>Beyond a handful of model or commercial species, invertebrate microbiomes are vastly understudied. However, these animals, and these animal-microbe interactions in particular, are vital for ecosystem functioning.&#xA;Many people will be unfamiliar with the tiny invertebrates that support aquatic environments. Therefore, stressing the importance of these host-microbe interactions and their implications for wider environmental health can be challenging.&#xA;Artemia, or brine shrimp, are incredibly important for aquatic food production (thousands of tonnes are produced each year as feed for other animals) but are perhaps better known to some by another name: Sea-Monkeys.</description>
+    </item>
     <item>
       <title>Useful resources for data analysis</title>
       <link>/posts/usefulresourcesformicrobiomeanalysis/</link>

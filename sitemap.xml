@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/ln2-12sep2024/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/invertebrates/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/microbiomes/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/news/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/featured/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
@@ -11,16 +26,10 @@
     <loc>/tags/r/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/usefulresourcesformicrobiomeanalysis/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/ln1-27june2024/</loc>
-    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/news/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/dinoflagellates/</loc>
@@ -41,9 +50,6 @@
     <loc>/publications/trznadel_2024_currentbio/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/invertebrates/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publications/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -52,9 +58,6 @@
   </url><url>
     <loc>/publications/holthehenberger_2023_naturecomms/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/microbiomes/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/holt_2023_scireports/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>

@@ -6,8 +6,29 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invertebrates</title>
+      <link>/tags/invertebrates/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/invertebrates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microbiomes</title>
+      <link>/tags/microbiomes/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/microbiomes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Featured</title>
       <link>/tags/featured/</link>
@@ -20,13 +41,6 @@
       <link>/tags/r/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>/tags/news/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/news/</guid>
       <description></description>
     </item>
     <item>
@@ -58,24 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Invertebrates</title>
-      <link>/tags/invertebrates/</link>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/invertebrates/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>MALVs</title>
       <link>/tags/malvs/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/tags/malvs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microbiomes</title>
-      <link>/tags/microbiomes/</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/microbiomes/</guid>
       <description></description>
     </item>
     <item>
