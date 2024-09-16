@@ -118,6 +118,7 @@ h1, h2, h3 {
       color: inherit;
       /* Ensure the link color does not change */ }
       .social-icon a:hover img, .social-icon a:focus img, .social-icon a:active img {
+        transition: transform 0.3s ease;
         opacity: 1;
         /* Keep the icon fully opaque during hover */
         transform: scale(1.5);
@@ -405,7 +406,7 @@ ul {
     border-radius: 50%;
     display: inline-block;
     vertical-align: middle;
-    border: 1.5px solid var(--heading-color); }
+    border: 1px solid var(--heading-color); }
   .author .author-name {
     display: inline-block;
     vertical-align: middle;
