@@ -149,7 +149,7 @@ a {
   text-decoration: none; }
   a:hover {
     background-color: var(--highlight-color);
-    color: #242424;
+    color: #ededed;
     height: auto; }
 
 h1,
