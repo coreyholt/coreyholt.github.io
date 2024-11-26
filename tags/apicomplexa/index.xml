@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apicomplexa on </title>
-    <link>//localhost:1313/tags/apicomplexa/</link>
+    <link>/tags/apicomplexa/</link>
     <description>Recent content in Apicomplexa on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/apicomplexa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/apicomplexa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coral-infecting parasites in cold marine ecosystems</title>
-      <link>//localhost:1313/publications/trznadel_2024_currentbio/</link>
+      <link>/publications/trznadel_2024_currentbio/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/trznadel_2024_currentbio/</guid>
+      <guid>/publications/trznadel_2024_currentbio/</guid>
       <description>Trznadel M, Holt CC, Livingston SJ, Kwong WK, Keeling PK. Coral reefs are a biodiversity hotspot and the association between coral and intracellular dinoflagellates is a model for endosymbiosis. Recently, corals and related anthozoans have also been found to harbor another kind of endosymbiont, apicomplexans called corallicolids. Apicomplexans are a diverse lineage of obligate intracellular parasites that include human pathogens such as the malaria parasite, Plasmodium. Global environmental sequencing shows corallicolids are tightly associated with tropical and subtropical reef environments where they infect diverse corals across a range of depths in many reef systems, and correlate with host mortality during bleaching events.</description>
     </item>
     <item>
       <title>Microscopic marine invertebrates are reservoirs for cryptic and diverse protists and fungi</title>
-      <link>//localhost:1313/publications/holt_2023_microbiome/</link>
+      <link>/publications/holt_2023_microbiome/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2023_microbiome/</guid>
+      <guid>/publications/holt_2023_microbiome/</guid>
       <description>Holt CC, Boscaro V, Van Steenkiste NW, Herranz M, Mathur V, Irwin NA, Buckholtz G, Leander BS, Keeling PJ. Background: Microbial symbioses in marine invertebrates are commonplace. However, characterizations of invertebrate microbiomes are vastly outnumbered by those of vertebrates. Protists and fungi run the gamut of symbiosis, yet eukaryotic microbiome sequencing is rarely undertaken, with much of the focus on bacteria. To explore the importance of microscopic marine invertebrates as potential symbiont reservoirs, we used a phylogenetic-focused approach to analyze the host-associated eukaryotic microbiomes of 220 animal specimens spanning nine different animal phyla.</description>
     </item>
   </channel>

@@ -2,146 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/art/</loc>
+    <loc>/tags/art/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/ln3-09sep2024/</loc>
+    <loc>/posts/ln3-09sep2024/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/news/</loc>
+    <loc>/tags/news/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/ln2-12aug2024/</loc>
+    <loc>/posts/ln2-12aug2024/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/invertebrates/</loc>
+    <loc>/tags/invertebrates/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/microbiomes/</loc>
+    <loc>/tags/microbiomes/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/outreach/</loc>
+    <loc>/tags/outreach/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2024_plosone/</loc>
+    <loc>/publications/holt_2024_plosone/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/featured/</loc>
+    <loc>/tags/featured/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</loc>
+    <loc>/posts/usefulresourcesformicrobiomeanalysis/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/ln1-27june2024/</loc>
+    <loc>/posts/ln1-27june2024/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/dinoflagellates/</loc>
+    <loc>/tags/dinoflagellates/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/evolution/</loc>
+    <loc>/tags/evolution/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/cooney_2024_mbe/</loc>
+    <loc>/publications/cooney_2024_mbe/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/protists/</loc>
+    <loc>/tags/protists/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/apicomplexa/</loc>
+    <loc>/tags/apicomplexa/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/trznadel_2024_currentbio/</loc>
+    <loc>/publications/trznadel_2024_currentbio/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>/publications/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/malvs/</loc>
+    <loc>/tags/malvs/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holthehenberger_2023_naturecomms/</loc>
+    <loc>/publications/holthehenberger_2023_naturecomms/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2023_scireports/</loc>
+    <loc>/publications/holt_2023_scireports/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/cooney_2023_currentbio/</loc>
+    <loc>/publications/cooney_2023_currentbio/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2023_microbiome/</loc>
+    <loc>/publications/holt_2023_microbiome/</loc>
     <lastmod>2023-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/aquaculture/</loc>
+    <loc>/tags/aquaculture/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/stentiford_2023_fronsusfood/</loc>
+    <loc>/publications/stentiford_2023_fronsusfood/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/food-security/</loc>
+    <loc>/tags/food-security/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/boscaroholt_2023_naturemicro/</loc>
+    <loc>/publications/boscaroholt_2023_naturemicro/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/stentiford_2022_erl/</loc>
+    <loc>/publications/stentiford_2022_erl/</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/stentiford_2022_naturefood/</loc>
+    <loc>/publications/stentiford_2022_naturefood/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/phd/</loc>
+    <loc>/tags/phd/</loc>
     <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2019_jip/</loc>
+    <loc>/publications/holt_2019_jip/</loc>
     <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2019_thesis/</loc>
+    <loc>/publications/holt_2019_thesis/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/lobsters/</loc>
+    <loc>/tags/lobsters/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/virus/</loc>
+    <loc>/tags/virus/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2019_isme/</loc>
+    <loc>/publications/holt_2019_isme/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2021_scireports/</loc>
+    <loc>/publications/holt_2021_scireports/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/diet/</loc>
+    <loc>/tags/diet/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/bowtell_2019_nutrients/</loc>
+    <loc>/publications/bowtell_2019_nutrients/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/holt_2018_jip/</loc>
+    <loc>/publications/holt_2018_jip/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/oomycetes/</loc>
+    <loc>/tags/oomycetes/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/ethicsAndValues/</loc>
+    <loc>/ethicsAndValues/</loc>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>/pages/</loc>
   </url><url>
-    <loc>//localhost:1313/people/</loc>
+    <loc>/people/</loc>
   </url>
 </urlset>

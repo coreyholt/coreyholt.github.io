@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARt</title>
-      <link>//localhost:1313/tags/art/</link>
+      <link>/tags/art/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/art/</guid>
+      <guid>/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>//localhost:1313/tags/news/</link>
+      <link>/tags/news/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/news/</guid>
+      <guid>/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>//localhost:1313/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Invertebrates</title>
-      <link>//localhost:1313/tags/invertebrates/</link>
+      <link>/tags/invertebrates/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/invertebrates/</guid>
+      <guid>/tags/invertebrates/</guid>
       <description></description>
     </item>
     <item>
       <title>Microbiomes</title>
-      <link>//localhost:1313/tags/microbiomes/</link>
+      <link>/tags/microbiomes/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/microbiomes/</guid>
+      <guid>/tags/microbiomes/</guid>
       <description></description>
     </item>
     <item>
       <title>Outreach</title>
-      <link>//localhost:1313/tags/outreach/</link>
+      <link>/tags/outreach/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/outreach/</guid>
+      <guid>/tags/outreach/</guid>
       <description></description>
     </item>
     <item>
       <title>Featured</title>
-      <link>//localhost:1313/tags/featured/</link>
+      <link>/tags/featured/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/featured/</guid>
+      <guid>/tags/featured/</guid>
       <description></description>
     </item>
     <item>
       <title>Dinoflagellates</title>
-      <link>//localhost:1313/tags/dinoflagellates/</link>
+      <link>/tags/dinoflagellates/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/dinoflagellates/</guid>
+      <guid>/tags/dinoflagellates/</guid>
       <description></description>
     </item>
     <item>
       <title>Evolution</title>
-      <link>//localhost:1313/tags/evolution/</link>
+      <link>/tags/evolution/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/evolution/</guid>
+      <guid>/tags/evolution/</guid>
       <description></description>
     </item>
     <item>
       <title>Protists</title>
-      <link>//localhost:1313/tags/protists/</link>
+      <link>/tags/protists/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/protists/</guid>
+      <guid>/tags/protists/</guid>
       <description></description>
     </item>
     <item>
       <title>Apicomplexa</title>
-      <link>//localhost:1313/tags/apicomplexa/</link>
+      <link>/tags/apicomplexa/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/apicomplexa/</guid>
+      <guid>/tags/apicomplexa/</guid>
       <description></description>
     </item>
     <item>
       <title>MALVs</title>
-      <link>//localhost:1313/tags/malvs/</link>
+      <link>/tags/malvs/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/malvs/</guid>
+      <guid>/tags/malvs/</guid>
       <description></description>
     </item>
     <item>
       <title>Aquaculture</title>
-      <link>//localhost:1313/tags/aquaculture/</link>
+      <link>/tags/aquaculture/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/aquaculture/</guid>
+      <guid>/tags/aquaculture/</guid>
       <description></description>
     </item>
     <item>
       <title>Food Security</title>
-      <link>//localhost:1313/tags/food-security/</link>
+      <link>/tags/food-security/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/food-security/</guid>
+      <guid>/tags/food-security/</guid>
       <description></description>
     </item>
     <item>
       <title>PhD</title>
-      <link>//localhost:1313/tags/phd/</link>
+      <link>/tags/phd/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/phd/</guid>
+      <guid>/tags/phd/</guid>
       <description></description>
     </item>
     <item>
       <title>Lobsters</title>
-      <link>//localhost:1313/tags/lobsters/</link>
+      <link>/tags/lobsters/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/lobsters/</guid>
+      <guid>/tags/lobsters/</guid>
       <description></description>
     </item>
     <item>
       <title>Virus</title>
-      <link>//localhost:1313/tags/virus/</link>
+      <link>/tags/virus/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/virus/</guid>
+      <guid>/tags/virus/</guid>
       <description></description>
     </item>
     <item>
       <title>Diet</title>
-      <link>//localhost:1313/tags/diet/</link>
+      <link>/tags/diet/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/diet/</guid>
+      <guid>/tags/diet/</guid>
       <description></description>
     </item>
     <item>
       <title>Oomycetes</title>
-      <link>//localhost:1313/tags/oomycetes/</link>
+      <link>/tags/oomycetes/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/oomycetes/</guid>
+      <guid>/tags/oomycetes/</guid>
       <description></description>
     </item>
   </channel>
