@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outreach on </title>
+    <link>/tags/outreach/</link>
+    <description>Recent content in Outreach on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An unconventional host</title>
+      <link>/posts/ln2-12aug2024/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/ln2-12aug2024/</guid>
+      <description>Beyond a handful of model or commercial species, invertebrate microbiomes are vastly understudied. However, these animals, and these animal-microbe interactions in particular, are vital for ecosystem functioning.&#xA;Many people will be unfamiliar with the tiny invertebrates that support aquatic environments. Therefore, stressing the importance of these host-microbe interactions and their implications for wider environmental health can be challenging.&#xA;Artemia, or brine shrimp, are incredibly important for aquatic food production (thousands of tonnes are produced each year as feed for other animals) but are perhaps better known to some by another name: Sea-Monkeys.</description>
+    </item>
+    <item>
+      <title>Source and variation of the amazing live Sea-Monkey microbiome</title>
+      <link>/publications/holt_2024_plosone/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/holt_2024_plosone/</guid>
+      <description>Holt CC, del Campo J, Keeling PJ. An embryonic diapause in unfavourable conditions has allowed brine shrimp to thrive in hypersaline environments and, unexpectedly, mail-order sachets and small, novelty tanks. Marketed as Sea-Monkeys®, each kit involves a 3-step process to generate adult Artemia within a matter of weeks. Whether these kits also allow for the maintenance of a host-associated microbiome is unclear. Therefore, comparing five replicate tanks under the same culture conditions, we sequenced the 16S ribosomal small subunit (SSU) gene to analyse bacterial community compositions in adults, their surrounding tank water, and their feed.</description>
+    </item>
+  </channel>
+</rss>

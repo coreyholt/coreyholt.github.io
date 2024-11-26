@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protists on </title>
+    <link>/tags/protists/</link>
+    <description>Recent content in Protists on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/protists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigation of heterotrophs reveals new insights in dinoflagellate evolution</title>
+      <link>/publications/cooney_2024_mbe/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/cooney_2024_mbe/</guid>
+      <description>Cooney EC, Holt CC, Hehenberger E, Adams JA, Leander BS, Keeling PJ. Dinoflagellates are diverse and ecologically important protists characterized by many morphological and molecular traits that set them apart from other eukaryotes. These features include, but are not limited to, massive genomes organized using bacterially-derived histone-like proteins (HLPs) and dinoflagellate viral nucleoproteins (DVNP) rather than histones, and a complex history of photobiology with many independent losses of photosynthesis, numerous cases of serial secondary and tertiary plastid gains, and the presence of horizontally acquired bacterial rhodopsins and type II RuBisCo.</description>
+    </item>
+    <item>
+      <title>Coral-infecting parasites in cold marine ecosystems</title>
+      <link>/publications/trznadel_2024_currentbio/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/trznadel_2024_currentbio/</guid>
+      <description>Trznadel M, Holt CC, Livingston SJ, Kwong WK, Keeling PK. Coral reefs are a biodiversity hotspot and the association between coral and intracellular dinoflagellates is a model for endosymbiosis. Recently, corals and related anthozoans have also been found to harbor another kind of endosymbiont, apicomplexans called corallicolids. Apicomplexans are a diverse lineage of obligate intracellular parasites that include human pathogens such as the malaria parasite, Plasmodium. Global environmental sequencing shows corallicolids are tightly associated with tropical and subtropical reef environments where they infect diverse corals across a range of depths in many reef systems, and correlate with host mortality during bleaching events.</description>
+    </item>
+    <item>
+      <title>Multiple parallel origins of parasitic Marine Alveolates</title>
+      <link>/publications/holthehenberger_2023_naturecomms/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publications/holthehenberger_2023_naturecomms/</guid>
+      <description>Holt CC, Hehenberger E, Tikhonenkov DV, Jacko-Reynolds VKL, Okamoto N, Cooney EC, Irwin NAT, Keeling PK. *Equal Contribution Microbial eukaryotes are important components of marine ecosystems, and the Marine Alveolates (MALVs) are consistently both abundant and diverse in global environmental sequencing surveys. MALVs are dinoflagellates that are thought to be parasites of other protists and animals, but the lack of data beyond ribosomal RNA gene sequences from all but a few described species means much of their biology and evolution remain unknown.</description>
+    </item>
+    <item>
+      <title>Microscopic marine invertebrates are reservoirs for cryptic and diverse protists and fungi</title>
+      <link>/publications/holt_2023_microbiome/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publications/holt_2023_microbiome/</guid>
+      <description>Holt CC, Boscaro V, Van Steenkiste NW, Herranz M, Mathur V, Irwin NA, Buckholtz G, Leander BS, Keeling PJ. Background: Microbial symbioses in marine invertebrates are commonplace. However, characterizations of invertebrate microbiomes are vastly outnumbered by those of vertebrates. Protists and fungi run the gamut of symbiosis, yet eukaryotic microbiome sequencing is rarely undertaken, with much of the focus on bacteria. To explore the importance of microscopic marine invertebrates as potential symbiont reservoirs, we used a phylogenetic-focused approach to analyze the host-associated eukaryotic microbiomes of 220 animal specimens spanning nine different animal phyla.</description>
+    </item>
+    <item>
+      <title>Gut health in European lobster-the gut microbiome as a health marker in offshore sea culture</title>
+      <link>/publications/holt_2019_thesis/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publications/holt_2019_thesis/</guid>
+      <description>Holt CC. The European lobster (Homarus gammarus) represents one of the United Kingdom’s most valuable fisheries. High market prices and a relatively limited fishery suggests that the species may be a good candidate for aquaculture and/or further stock enhancement. Disease is one of the biggest threats to the development and progression of sustainable aquaculture. However very little is known in regard to diseases of the European lobster. Therefore, better characterisation of potential pathogens is vital to prevent collapse of any future culture initiative.</description>
+    </item>
+    <item>
+      <title>Halioticida noduliformans infection in eggs of lobster (Homarus gammarus) reveals its generalist parasitic strategy in marine invertebrates</title>
+      <link>/publications/holt_2018_jip/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publications/holt_2018_jip/</guid>
+      <description>Holt C, Foster R, Daniels CL, van der Giezen M, Feist SW, Stentiford GD, Bass D. A parasite exhibiting Oomycete-like morphology and pathogenesis was isolated from discoloured eggs of the European lobster (Homarus gammarus) and later found in gill tissues of adults. Group-specific Oomycete primers were designed to amplify the 18S ribosomal small subunit (SSU), which initially identified the organism as the same as the ‘Haliphthoros’ sp. NJM 0034 strain (AB178865.</description>
+    </item>
+  </channel>
+</rss>

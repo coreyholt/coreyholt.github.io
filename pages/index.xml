@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on </title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>Welcome to The Holt Lab! We&amp;rsquo;re based at the University of Bath in the United Kingdom. Our research currently spans four key themes &amp;hellip;&#xA;Microbiomes. We&#39;re interested in all things microbial diversity, particularly how and why microbes live in particular hosts or environments. These communities of microbes (i.e., microbiomes) can be integral to host and/or ecosystem functioning and we want to better understand how microbes fit into the web of processes that govern various environments.</description>
+    </item>
+    <item>
+      <title>Ethics and Values</title>
+      <link>/ethicsAndValues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/ethicsAndValues/</guid>
+      <description>This is a living document which details the values and expectations of The Holt Lab. I anticipate this to change and grow with the lab. Anyone thinking about joining our team should ensure they are happy to support the principles outlined in this document. Many of the policies discussed here are based on those from the Meren lab and Hammond Lab.&#xA;The Holt Lab welcomes all identities, be those related to gender, race, ethnicity, socio-economic status, sexuality, disability, etc.</description>
+    </item>
+    <item>
+      <title>People</title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/</guid>
+      <description>Well, this is awkward &amp;hellip; it&amp;rsquo;s just me at the moment.&#xA;Corey C. Holt Lecturer/Assistant Professor Corey, originally from Wales, completed his undergraduate degree and PhD at the University of Exeter. He was mostly based at the Centre for Environment, Fisheries, and Aquaculture Science (CEFAS), where he characterised microbes impacting lobster production using a novel sea-based culture system. He later moved to Canada to explore more fundamental questions of host-microbe associations in invertebrates, with a particular focus of protist diversity.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Generative aRt in R - </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/favicon.png">
+  <link rel="canonical" href="/posts/ln3-09sep2024/" />
+    
+    
+    <link rel="stylesheet" href="/css/style.min.79132d2a09f76a84636fcc8bf053daeda796005d2f3bd524e3c0c54776caba2f.css">
+    <link rel="stylesheet" href="/assets/css/extended.min.ba5e0b00ae7cabf50ad3d90b5a623a79852ffe90a36b88712ab105df60c30afe.css">
+
+  
+    
+
+  
+  <style>
+    :root {
+      --highlight-color: #c2c1c0;
+      --dot-color: #c2c1c0;
+    }
+  </style>
+
+  
+    <meta name="description" content="Meet geom_valley"/>
+    <meta property="og:title" content="Generative aRt in R"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="/posts/ln3-09sep2024/"/>
+    
+    <meta property="og:description" content="Meet geom_valley"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@gutmicrobiome"/>
+    <meta name="twitter:creator" content="@gutmicrobiome"/>
+  
+
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;display=swap" rel="stylesheet">
+  
+
+  
+</head>
+
+
+
+
+<body class='page page-blog-single'>
+  <div id="menu-main-mobile" class="menu-main-mobile">
+    <ul class="menu">
+        
+        
+            
+                <li class="menu-item-home">
+                    <a href="/">Home</a>
+                </li>
+            
+        
+            
+                <li class="menu-item-about">
+                    <a href="/about/">About</a>
+                </li>
+            
+        
+            
+                <li class="menu-item-people">
+                    <a href="/people/">People</a>
+                </li>
+            
+        
+            
+                <li class="menu-item-publications">
+                    <a href="/publications/">Publications</a>
+                </li>
+            
+        
+            
+                <li class="menu-item-posts">
+                    <a href="/posts/">Posts</a>
+                </li>
+            
+        
+            
+                <li class="menu-item-tags">
+                    <a href="/tags/">Tags</a>
+                </li>
+            
+        
+    </ul>
+</div>
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+  <a class="header-logo" href="/"></a>
+  <div class="menu-main">
+    <ul>
+      
+      
+      
+      
+      <li class="menu-item-home ">
+        <a href="/">
+          
+          <span>Home</span>
+        </a>
+      </li>
+      
+      
+      
+      <li class="menu-item-about ">
+        <a href="/about/">
+          
+          <span>About</span>
+        </a>
+      </li>
+      
+      
+      
+      <li class="menu-item-people ">
+        <a href="/people/">
+          
+          <span>People</span>
+        </a>
+      </li>
+      
+      
+      
+      <li class="menu-item-publications ">
+        <a href="/publications/">
+          
+          <span>Publications</span>
+        </a>
+      </li>
+      
+      
+      
+      <li class="menu-item-posts ">
+        <a href="/posts/">
+          
+          <span>Posts</span>
+        </a>
+      </li>
+      
+      
+      
+      <li class="menu-item-tags ">
+        <a href="/tags/">
+          
+          <span>Tags</span>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+  <div id="toggle-menu-main-mobile" class="hamburger-trigger">
+    <button class="hamburger">Menu</button>
+  </div>
+</div>
+    
+
+<style>
+  :root {
+    --highlight-color: #6AC04C;
+    --dot-color: #6AC04C;
+  }
+</style>
+
+  <div class="blog">
+    <div class="intro">
+      <h1>Generative aRt in R<span class="dot">.</span></h1>
+      <div class="author">
+  <img width="30" class="author-image" src="/images/home/IMG_1974-01.webp" alt="The Holt Lab" />
+  <span class="author-name">The Holt Lab</span>
+  <span class="author-divider"></span>
+  <span class="author-date">September 15, 2024</span>
+</div>
+      
+    </div>
+    <div class="content">
+      <div style="text-align: left;
+  padding: 20px;
+  margin-bottom: 40px; background: repeating-linear-gradient(
+  -45deg,
+  rgba(254, 254, 254, 0), 
+  rgba(254, 254, 254, 0) 20px,
+  rgba(220, 220, 220, 0.5) 20px,
+  rgba(220, 220, 220, 0.5) 40px
+);
+  box-sizing: border-box;
+  max-width: 100%;" > 
+<h1 id="meet-geom_valley">Meet ✨geom_valley✨</h1>
+<p>I started writing this script at the end of 2021, inspired by <a href="https://opensea.io/collection/ringers-by-dmitri-cherniak" target="_blank" rel="noopener">The Ringer</a> series by Dmitri Cherniak and Thomas Lin Pedersen&rsquo;s <a href="https://thomaslinpedersen.art/work/constructive/" target="_blank" rel="noopener">Constructive</a> collection.</p>
+<p>I was back home in sunny Wales and set about trying to use a series of random choices to produce a cartoon landscape. I make a lot of data visualisations in R and it occurred to me that I could use ggplot functions if I just consider components of the image in terms of points along two axes. I&rsquo;d then add some leeway along those axes to include some variation during multiple iterations.
+Admittedly, I haven&rsquo;t worked on this in a good while but eventually I settled on the very messy R script I call <i>geom_valley</i>. How does it work?</div></p>
+<p>Firstly, <i>geom_valley</i> chooses one of three landscapes (grass, snow, desert) and a time variable that determines night and day. The mountains and clouds are simply kernal density plots.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>  <span style="color:#75715e">#Day sky</span>
+</span></span><span style="display:flex;"><span>    {<span style="color:#66d9ef">if</span>(time <span style="color:#f92672">&gt;=</span><span style="color:#ae81ff">6</span> <span style="color:#f92672">&amp;</span> time<span style="color:#f92672">&lt;</span><span style="color:#ae81ff">22</span>) <span style="color:#a6e22e">geom_rect</span>(
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">aes</span>(
+</span></span><span style="display:flex;"><span>      xmin <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>      xmax <span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>,
+</span></span><span style="display:flex;"><span>      ymin <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>      ymax <span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>
+</span></span><span style="display:flex;"><span>    ),
+</span></span><span style="display:flex;"><span>    fill <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;#72A9F0&#34;</span>)}<span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#Night sky</span>
+</span></span><span style="display:flex;"><span>  {<span style="color:#66d9ef">if</span>(time <span style="color:#f92672">&gt;=</span><span style="color:#ae81ff">22</span> <span style="color:#f92672">|</span> time<span style="color:#f92672">&lt;</span><span style="color:#ae81ff">6</span>) <span style="color:#a6e22e">geom_rect</span>(
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">aes</span>(
+</span></span><span style="display:flex;"><span>    xmin <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>    xmax <span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>,
+</span></span><span style="display:flex;"><span>    ymin <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>    ymax <span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>
+</span></span><span style="display:flex;"><span>  ),
+</span></span><span style="display:flex;"><span>  fill <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;#0e1a29&#34;</span>)}<span style="color:#f92672">+</span>
+</span></span></code></pre></div><div class="side-by-side">
+    <img src="/images/posts/LN3/geomValley.3b070224mint.55.png" class="side-by-side-img"  alt="Image 1">
+    <img src="/images/posts/LN3/geomValley.5b070224mint.48.png" class="side-by-side-img"  alt="Image 2">
+    <img src="/images/posts/LN3/geomValley070224mint.72.png" class="side-by-side-img"  alt="Image 3">
+</div>
+<div style="text-align: left;
+  padding: 20px;
+  margin-bottom: 40px; background: repeating-linear-gradient(
+  -45deg,
+  rgba(254, 254, 254, 0), 
+  rgba(254, 254, 254, 0) 20px,
+  rgba(220, 220, 220, 0.5) 20px,
+  rgba(220, 220, 220, 0.5) 40px
+);
+  box-sizing: border-box;
+  max-width: 100%;" >  </div>
+<p>The time variable, along with the position of the sun, then determines whether there will be a sunrise or sunset.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#75715e">#Sunrise</span>
+</span></span><span style="display:flex;"><span>  {<span style="color:#66d9ef">if</span>(time <span style="color:#f92672">&gt;=</span><span style="color:#ae81ff">6</span> <span style="color:#f92672">&amp;</span> time<span style="color:#f92672">&lt;</span><span style="color:#ae81ff">13</span> <span style="color:#f92672">&amp;</span> suny <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">6.5</span> <span style="color:#f92672">&amp;</span> suny <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">5</span> <span style="color:#f92672">&amp;</span> sunx <span style="color:#f92672">&lt;</span><span style="color:#ae81ff">10</span> <span style="color:#f92672">&amp;</span> sunx <span style="color:#f92672">&gt;</span><span style="color:#ae81ff">0</span>)
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">with_blur</span>(
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">geom_rect</span>(
+</span></span><span style="display:flex;"><span>    data<span style="color:#f92672">=</span>rect_grad, 
+</span></span><span style="display:flex;"><span>              <span style="color:#a6e22e">aes</span>(xmin<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>                  xmax<span style="color:#f92672">=</span><span style="color:#ae81ff">10</span>,
+</span></span><span style="display:flex;"><span>                  ymin<span style="color:#f92672">=</span>ymin, 
+</span></span><span style="display:flex;"><span>                  ymax<span style="color:#f92672">=</span>ymax, 
+</span></span><span style="display:flex;"><span>                  alpha<span style="color:#f92672">=</span>alpha), 
+</span></span><span style="display:flex;"><span>              fill<span style="color:#f92672">=</span>rand.pal.sunrise,
+</span></span><span style="display:flex;"><span>    colour<span style="color:#f92672">=</span><span style="color:#66d9ef">NA</span>),
+</span></span><span style="display:flex;"><span>    sigma<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)} <span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">scale_alpha_identity</span>()
+</span></span></code></pre></div><div class="side-by-side">
+    <img src="/images/posts/LN3/geomValley.9b070224mint.37.png" class="side-by-side-img"  alt="Image 1">
+    <img src="/images/posts/LN3/geomValley.060224mint.53.png" class="side-by-side-img"  alt="Image 2">
+    <img src="/images/posts/LN3/geomValley070224mint.66.png" class="side-by-side-img"  alt="Image 3">
+</div>
+<div style="text-align: left;
+  padding: 20px;
+  margin-bottom: 40px; background: repeating-linear-gradient(
+  -45deg,
+  rgba(254, 254, 254, 0), 
+  rgba(254, 254, 254, 0) 20px,
+  rgba(220, 220, 220, 0.5) 20px,
+  rgba(220, 220, 220, 0.5) 40px
+);
+  box-sizing: border-box;
+  max-width: 100%;" >  </div>
+<p>There&rsquo;s also a weather system with varying degrees of rain, snow, and fog – each with different probabilities based on the type of landscape.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span> {<span style="color:#66d9ef">if</span>(rand.land.df[1,<span style="color:#ae81ff">1</span>]<span style="color:#f92672">==</span><span style="color:#e6db74">&#34;snow&#34;</span> <span style="color:#f92672">&amp;</span> snow.status <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span>) <span style="color:#a6e22e">geom_point</span>(
+</span></span><span style="display:flex;"><span>    data <span style="color:#f92672">=</span> <span style="color:#a6e22e">data.frame</span>(x<span style="color:#f92672">=</span><span style="color:#a6e22e">rnorm</span>(snowfall, mean <span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>, sd<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>), 
+</span></span><span style="display:flex;"><span>                      y<span style="color:#f92672">=</span><span style="color:#a6e22e">rtruncnorm</span>(snowfall, a<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, b<span style="color:#f92672">=</span><span style="color:#ae81ff">10</span>, mean<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>, sd<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>)),
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">aes</span>(x<span style="color:#f92672">=</span>x, y<span style="color:#f92672">=</span>y),
+</span></span><span style="display:flex;"><span>    pch <span style="color:#f92672">=</span><span style="color:#ae81ff">8</span>, colour<span style="color:#f92672">=</span>rand.land.df[1,<span style="color:#ae81ff">2</span>])}
+</span></span></code></pre></div><div class="side-by-side">
+    <img src="/images/posts/LN3/geomValley.2b060224mint.92.png" class="side-by-side-img"  alt="Image 1">
+    <img src="/images/posts/LN3/geomValley.060224mint.89.png" class="side-by-side-img"  alt="Image 2">
+    <img src="/images/posts/LN3/geomValley.iphone.mid.060224mint.54.png" class="side-by-side-img"  alt="Image 3">
+</div>
+<div style="text-align: left;
+  padding: 20px;
+  margin-bottom: 40px; background: repeating-linear-gradient(
+  -45deg,
+  rgba(254, 254, 254, 0), 
+  rgba(254, 254, 254, 0) 20px,
+  rgba(220, 220, 220, 0.5) 20px,
+  rgba(220, 220, 220, 0.5) 40px
+);
+  box-sizing: border-box;
+  max-width: 100%;" >  </div>
+<p>And, if you&rsquo;re very lucky, you might even see a rainbow!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>{<span style="color:#66d9ef">if</span>(time <span style="color:#f92672">&gt;=</span><span style="color:#ae81ff">6</span> <span style="color:#f92672">&amp;</span> time<span style="color:#f92672">&lt;</span><span style="color:#ae81ff">22</span> <span style="color:#f92672">&amp;</span> rainbow.status <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span>) 
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">geom_curve</span>(
+</span></span><span style="display:flex;"><span>  data<span style="color:#f92672">=</span>rainbow.df,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">aes</span>(
+</span></span><span style="display:flex;"><span>  x <span style="color:#f92672">=</span> x, 
+</span></span><span style="display:flex;"><span>  xend <span style="color:#f92672">=</span> xend,
+</span></span><span style="display:flex;"><span>  y <span style="color:#f92672">=</span> y, 
+</span></span><span style="display:flex;"><span>  yend <span style="color:#f92672">=</span> y<span style="color:#ae81ff">+5</span>,
+</span></span><span style="display:flex;"><span>  colour<span style="color:#f92672">=</span>pal),
+</span></span><span style="display:flex;"><span>  size<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>,
+</span></span><span style="display:flex;"><span>  curvature<span style="color:#f92672">=</span><span style="color:#a6e22e">runif</span>(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">-1</span>,<span style="color:#ae81ff">-0.2</span>),
+</span></span><span style="display:flex;"><span>  alpha<span style="color:#f92672">=</span><span style="color:#ae81ff">0.8</span>)}<span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">scale_color_identity</span>()<span style="color:#f92672">+</span>
+</span></span></code></pre></div><div class="side-by-side">
+    <img src="/images/posts/LN3/geomValley.7b070224mint.79.png" class="side-by-side-img" alt="Image 1">
+    <img src="/images/posts/LN3/geomValley.9b070224mint.15.png" class="side-by-side-img"alt="Image 2">
+    <img src="/images/posts/LN3/geomValley.iphone.mid.060224mint.26.png" class="side-by-side-img" alt="Image 3">
+</div>
+<p>That&rsquo;s pretty much it. They make for delightful Christmas cards.</p>
+<p><i>geom_valley is written in R using the following packages: tidyverse, ggridges, ggfx, colorspace, scales, truncnorm.</i></p>
+
+    </div>
+  </div>
+
+    <div class="footer">
+  <div class="footer-logo">
+    <img src="/images/home/HoltLabLogoAllwText_cut.webp" alt="Logo">
+  </div>
+  <div class="footer-text">
+    Made with <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> and the <a href="https://github.com/zerostaticthemes/hugo-winston-theme" target="_blank" rel="noopener">hugo-winston-theme</a>
+  </div>
+</div>
+  </div>
+
+  
+
+  
+    <script type="text/javascript" src="/js/bundle.min.b871dcdf52f94a7b875f9471ee6203a7ab9aac66b1b14afd71b02721e69a86ce.js"></script>
+  
+
+  
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+
+</body>
+</html>

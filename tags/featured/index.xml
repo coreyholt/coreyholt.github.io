@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on </title>
+    <link>/tags/featured/</link>
+    <description>Recent content in Featured on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful resources for data analysis</title>
+      <link>/posts/usefulresourcesformicrobiomeanalysis/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/usefulresourcesformicrobiomeanalysis/</guid>
+      <description>Microbiomes: DADA2 I like to analyse all of my microbiome data directly in R with the DADA2 package. This is an Amplicon Sequence Variant (ASV) approach (meaning reads aren&#39;t clustered according to a similarity threshold) and relies on run-specific error models to denoise data and limit overestimations of sequence diversity. The DADA2 tutorial is a great place to start if you&#39;re interested in this method. Alternatively, you can implement DADA2 in QIIME2.</description>
+    </item>
+    <item>
+      <title>Investigation of heterotrophs reveals new insights in dinoflagellate evolution</title>
+      <link>/publications/cooney_2024_mbe/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/cooney_2024_mbe/</guid>
+      <description>Cooney EC, Holt CC, Hehenberger E, Adams JA, Leander BS, Keeling PJ. Dinoflagellates are diverse and ecologically important protists characterized by many morphological and molecular traits that set them apart from other eukaryotes. These features include, but are not limited to, massive genomes organized using bacterially-derived histone-like proteins (HLPs) and dinoflagellate viral nucleoproteins (DVNP) rather than histones, and a complex history of photobiology with many independent losses of photosynthesis, numerous cases of serial secondary and tertiary plastid gains, and the presence of horizontally acquired bacterial rhodopsins and type II RuBisCo.</description>
+    </item>
+    <item>
+      <title>Coral-infecting parasites in cold marine ecosystems</title>
+      <link>/publications/trznadel_2024_currentbio/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/trznadel_2024_currentbio/</guid>
+      <description>Trznadel M, Holt CC, Livingston SJ, Kwong WK, Keeling PK. Coral reefs are a biodiversity hotspot and the association between coral and intracellular dinoflagellates is a model for endosymbiosis. Recently, corals and related anthozoans have also been found to harbor another kind of endosymbiont, apicomplexans called corallicolids. Apicomplexans are a diverse lineage of obligate intracellular parasites that include human pathogens such as the malaria parasite, Plasmodium. Global environmental sequencing shows corallicolids are tightly associated with tropical and subtropical reef environments where they infect diverse corals across a range of depths in many reef systems, and correlate with host mortality during bleaching events.</description>
+    </item>
+    <item>
+      <title>Multiple parallel origins of parasitic Marine Alveolates</title>
+      <link>/publications/holthehenberger_2023_naturecomms/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publications/holthehenberger_2023_naturecomms/</guid>
+      <description>Holt CC, Hehenberger E, Tikhonenkov DV, Jacko-Reynolds VKL, Okamoto N, Cooney EC, Irwin NAT, Keeling PK. *Equal Contribution Microbial eukaryotes are important components of marine ecosystems, and the Marine Alveolates (MALVs) are consistently both abundant and diverse in global environmental sequencing surveys. MALVs are dinoflagellates that are thought to be parasites of other protists and animals, but the lack of data beyond ribosomal RNA gene sequences from all but a few described species means much of their biology and evolution remain unknown.</description>
+    </item>
+    <item>
+      <title>Microbiomes of microscopic marine invertebrates do not reveal signatures of phylosymbiosis</title>
+      <link>/publications/boscaroholt_2023_naturemicro/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publications/boscaroholt_2023_naturemicro/</guid>
+      <description>Boscaro V*, Holt CC*, Van Steenkiste NW, Herranz M, Irwin NA, Álvarez-Campos P, Grzelak K, Holovachov O, Kerbl A, Mathur V, Okamoto N, Piercey RS, Worsaae K, Leander BS, Keeling PJ. *Equal Contribution Animals and microorganisms often establish close ecological relationships. However, much of our knowledge about animal microbiomes comes from two deeply studied groups: vertebrates and arthropods. To understand interactions on a broader scale of diversity, we characterized the bacterial microbiomes of close to 1,000 microscopic marine invertebrates from 21 phyla, spanning most of the remaining tree of metazoans.</description>
+    </item>
+  </channel>
+</rss>
