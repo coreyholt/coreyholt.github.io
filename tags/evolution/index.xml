@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolution on </title>
-    <link>/tags/evolution/</link>
+    <link>//localhost:1313/tags/evolution/</link>
     <description>Recent content in Evolution on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Investigation of heterotrophs reveals new insights in dinoflagellate evolution</title>
-      <link>/publications/cooney_2024_mbe/</link>
+      <link>//localhost:1313/publications/cooney_2024_mbe/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/publications/cooney_2024_mbe/</guid>
+      <guid>//localhost:1313/publications/cooney_2024_mbe/</guid>
       <description>Cooney EC, Holt CC, Hehenberger E, Adams JA, Leander BS, Keeling PJ. Dinoflagellates are diverse and ecologically important protists characterized by many morphological and molecular traits that set them apart from other eukaryotes. These features include, but are not limited to, massive genomes organized using bacterially-derived histone-like proteins (HLPs) and dinoflagellate viral nucleoproteins (DVNP) rather than histones, and a complex history of photobiology with many independent losses of photosynthesis, numerous cases of serial secondary and tertiary plastid gains, and the presence of horizontally acquired bacterial rhodopsins and type II RuBisCo.</description>
     </item>
     <item>
       <title>Multiple parallel origins of parasitic Marine Alveolates</title>
-      <link>/publications/holthehenberger_2023_naturecomms/</link>
+      <link>//localhost:1313/publications/holthehenberger_2023_naturecomms/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/publications/holthehenberger_2023_naturecomms/</guid>
+      <guid>//localhost:1313/publications/holthehenberger_2023_naturecomms/</guid>
       <description>Holt CC, Hehenberger E, Tikhonenkov DV, Jacko-Reynolds VKL, Okamoto N, Cooney EC, Irwin NAT, Keeling PK. *Equal Contribution Microbial eukaryotes are important components of marine ecosystems, and the Marine Alveolates (MALVs) are consistently both abundant and diverse in global environmental sequencing surveys. MALVs are dinoflagellates that are thought to be parasites of other protists and animals, but the lack of data beyond ribosomal RNA gene sequences from all but a few described species means much of their biology and evolution remain unknown.</description>
     </item>
     <item>
       <title>Photosystems in the eye-like organelles of heterotrophic warnowiid dinoflagellates</title>
-      <link>/publications/cooney_2023_currentbio/</link>
+      <link>//localhost:1313/publications/cooney_2023_currentbio/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/publications/cooney_2023_currentbio/</guid>
+      <guid>//localhost:1313/publications/cooney_2023_currentbio/</guid>
       <description>Cooney EC, Holt CC, Jacko-Reynolds VK, Leander BS, Keeling PJ. Warnowiid dinoflagellates contain a highly complex camera-eye-like structure called the ocelloid that is composed of different organelles resembling parts of metazoan eyes, including a modified plastid that serves as the retinal body. 1 The overall structure of the ocelloid has been investigated by microscopy; because warnowiids are not in culture and are rare in nature, we know little about their function.</description>
     </item>
   </channel>
