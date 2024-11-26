@@ -956,8 +956,8 @@ margin-left: -6vw;
 .about-section-container {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start; /* Aligns heading and text to the top */
-  gap: 40px;
+  align-items: flex-start;
+  gap: 0px;
 }
 
 .about-text-container {
@@ -967,6 +967,13 @@ margin-left: -6vw;
 .about-image-container {
   flex: 1; /* Takes up one-third of the container */
   text-align: right; /* Aligns the image to the right */
+  position: relative;
+}
+
+.about-image-container img {
+  max-width: 100%; /* Prevents images from exceeding container width */
+  height: auto; /* Maintains aspect ratio */
+  object-fit: cover; /* Ensures image fills allocated space */
 }
 
 .about-img2a {
@@ -981,8 +988,8 @@ margin-left: -6vw;
 }
 .about-img2c {
   position: absolute;
-  padding-left: 100px;
-  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-top: 80px;
   width: 500px;
 }
 .about-img2d {
