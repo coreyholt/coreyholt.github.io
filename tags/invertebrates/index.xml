@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invertebrates on </title>
-    <link>//localhost:1313/tags/invertebrates/</link>
+    <link>/tags/invertebrates/</link>
     <description>Recent content in Invertebrates on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/invertebrates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/invertebrates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An unconventional host</title>
-      <link>//localhost:1313/posts/ln2-12aug2024/</link>
+      <link>/posts/ln2-12aug2024/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ln2-12aug2024/</guid>
+      <guid>/posts/ln2-12aug2024/</guid>
       <description>Beyond a handful of model or commercial species, invertebrate microbiomes are vastly understudied. However, these animals, and these animal-microbe interactions in particular, are vital for ecosystem functioning.&#xA;Many people will be unfamiliar with the tiny invertebrates that support aquatic environments. Therefore, stressing the importance of these host-microbe interactions and their implications for wider environmental health can be challenging.&#xA;Artemia, or brine shrimp, are incredibly important for aquatic food production (thousands of tonnes are produced each year as feed for other animals) but are perhaps better known to some by another name: Sea-Monkeys.</description>
     </item>
     <item>
       <title>Source and variation of the amazing live Sea-Monkey microbiome</title>
-      <link>//localhost:1313/publications/holt_2024_plosone/</link>
+      <link>/publications/holt_2024_plosone/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2024_plosone/</guid>
+      <guid>/publications/holt_2024_plosone/</guid>
       <description>Holt CC, del Campo J, Keeling PJ. An embryonic diapause in unfavourable conditions has allowed brine shrimp to thrive in hypersaline environments and, unexpectedly, mail-order sachets and small, novelty tanks. Marketed as Sea-Monkeys®, each kit involves a 3-step process to generate adult Artemia within a matter of weeks. Whether these kits also allow for the maintenance of a host-associated microbiome is unclear. Therefore, comparing five replicate tanks under the same culture conditions, we sequenced the 16S ribosomal small subunit (SSU) gene to analyse bacterial community compositions in adults, their surrounding tank water, and their feed.</description>
     </item>
     <item>
       <title>Coral-infecting parasites in cold marine ecosystems</title>
-      <link>//localhost:1313/publications/trznadel_2024_currentbio/</link>
+      <link>/publications/trznadel_2024_currentbio/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/trznadel_2024_currentbio/</guid>
+      <guid>/publications/trznadel_2024_currentbio/</guid>
       <description>Trznadel M, Holt CC, Livingston SJ, Kwong WK, Keeling PK. Coral reefs are a biodiversity hotspot and the association between coral and intracellular dinoflagellates is a model for endosymbiosis. Recently, corals and related anthozoans have also been found to harbor another kind of endosymbiont, apicomplexans called corallicolids. Apicomplexans are a diverse lineage of obligate intracellular parasites that include human pathogens such as the malaria parasite, Plasmodium. Global environmental sequencing shows corallicolids are tightly associated with tropical and subtropical reef environments where they infect diverse corals across a range of depths in many reef systems, and correlate with host mortality during bleaching events.</description>
     </item>
     <item>
       <title>Spatial compartmentalisation of bacteria in phoronid microbiomes</title>
-      <link>//localhost:1313/publications/holt_2023_scireports/</link>
+      <link>/publications/holt_2023_scireports/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2023_scireports/</guid>
+      <guid>/publications/holt_2023_scireports/</guid>
       <description>Holt CC, Dhaliwal S, Na I, Mtawali M, Boscaro V, Keeling PK. The phylum Phoronida comprises filter-feeding invertebrates that live in a protective tube sometimes reinforced with particulate material from the surrounding environments. Animals with these characteristics make promising candidate hosts for symbiotic bacteria, given the constant interactions with various bacterial colonizers, yet phoronids are one of the very few animal phyla with no available microbiome data whatsoever. Here, by sequencing the V4 region of the 16S rRNA gene, we compare bacterial microbiomes in whole phoronids, including both tube and living tissues, with those associated exclusively to the isolated tube and/or the naked animal inside.</description>
     </item>
     <item>
       <title>Microscopic marine invertebrates are reservoirs for cryptic and diverse protists and fungi</title>
-      <link>//localhost:1313/publications/holt_2023_microbiome/</link>
+      <link>/publications/holt_2023_microbiome/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2023_microbiome/</guid>
+      <guid>/publications/holt_2023_microbiome/</guid>
       <description>Holt CC, Boscaro V, Van Steenkiste NW, Herranz M, Mathur V, Irwin NA, Buckholtz G, Leander BS, Keeling PJ. Background: Microbial symbioses in marine invertebrates are commonplace. However, characterizations of invertebrate microbiomes are vastly outnumbered by those of vertebrates. Protists and fungi run the gamut of symbiosis, yet eukaryotic microbiome sequencing is rarely undertaken, with much of the focus on bacteria. To explore the importance of microscopic marine invertebrates as potential symbiont reservoirs, we used a phylogenetic-focused approach to analyze the host-associated eukaryotic microbiomes of 220 animal specimens spanning nine different animal phyla.</description>
     </item>
     <item>
       <title>Microbiomes of microscopic marine invertebrates do not reveal signatures of phylosymbiosis</title>
-      <link>//localhost:1313/publications/boscaroholt_2023_naturemicro/</link>
+      <link>/publications/boscaroholt_2023_naturemicro/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/boscaroholt_2023_naturemicro/</guid>
+      <guid>/publications/boscaroholt_2023_naturemicro/</guid>
       <description>Boscaro V*, Holt CC*, Van Steenkiste NW, Herranz M, Irwin NA, Álvarez-Campos P, Grzelak K, Holovachov O, Kerbl A, Mathur V, Okamoto N, Piercey RS, Worsaae K, Leander BS, Keeling PJ. *Equal Contribution Animals and microorganisms often establish close ecological relationships. However, much of our knowledge about animal microbiomes comes from two deeply studied groups: vertebrates and arthropods. To understand interactions on a broader scale of diversity, we characterized the bacterial microbiomes of close to 1,000 microscopic marine invertebrates from 21 phyla, spanning most of the remaining tree of metazoans.</description>
     </item>
     <item>
       <title>Understanding the role of the shrimp gut microbiome in health and disease</title>
-      <link>//localhost:1313/publications/holt_2019_jip/</link>
+      <link>/publications/holt_2019_jip/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2019_jip/</guid>
+      <guid>/publications/holt_2019_jip/</guid>
       <description>Holt CC, Bass D, Stentiford GD, van der Giezen M. The European lobster (Homarus gammarus) represents one of the United Kingdom’s most valuable fisheries. High market prices and a relatively limited fishery suggests that the species may be a good candidate for aquaculture and/or further stock enhancement. Disease is one of the biggest threats to the development and progression of sustainable aquaculture. However very little is known in regard to diseases of the European lobster.</description>
     </item>
     <item>
       <title>Gut health in European lobster-the gut microbiome as a health marker in offshore sea culture</title>
-      <link>//localhost:1313/publications/holt_2019_thesis/</link>
+      <link>/publications/holt_2019_thesis/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2019_thesis/</guid>
+      <guid>/publications/holt_2019_thesis/</guid>
       <description>Holt CC. The European lobster (Homarus gammarus) represents one of the United Kingdom’s most valuable fisheries. High market prices and a relatively limited fishery suggests that the species may be a good candidate for aquaculture and/or further stock enhancement. Disease is one of the biggest threats to the development and progression of sustainable aquaculture. However very little is known in regard to diseases of the European lobster. Therefore, better characterisation of potential pathogens is vital to prevent collapse of any future culture initiative.</description>
     </item>
     <item>
       <title>Spatial and temporal axes impact ecology of the gut microbiome in juvenile European lobster (Homarus gammarus)</title>
-      <link>//localhost:1313/publications/holt_2019_isme/</link>
+      <link>/publications/holt_2019_isme/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2019_isme/</guid>
+      <guid>/publications/holt_2019_isme/</guid>
       <description>Holt CC, Van der Giezen M, Daniels CL, Stentiford GD, Bass D. Microbial communities within the gut can markedly impact host health and fitness. To what extent environmental influences affect the differential distribution of these microbial populations may therefore significantly impact the successful farming of the host. Using a sea-based container culture (SBCC) system for the on-growing of European lobster (Homarus gammarus), we tracked the bacterial gut microbiota over a 1-year period.</description>
     </item>
     <item>
       <title>The first clawed lobster virus Homarus gammarus nudivirus (HgNV n. sp.) expands the diversity of the Nudiviridae</title>
-      <link>//localhost:1313/publications/holt_2021_scireports/</link>
+      <link>/publications/holt_2021_scireports/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2021_scireports/</guid>
+      <guid>/publications/holt_2021_scireports/</guid>
       <description>Holt CC, Stone M, Bass D, Bateman KS, van Aerle R, Daniels CL, van der Giezen M, Ross SH, Hooper C, Stentiford GD. Viral diseases of crustaceans are increasingly recognised as challenges to shellfish farms and fisheries. Here we describe the first naturally-occurring virus reported in any clawed lobster species. Hypertrophied nuclei with emarginated chromatin, characteristic histopathological lesions of DNA virus infection, were observed within the hepatopancreatic epithelial cells of juvenile European lobsters (Homarus gammarus).</description>
     </item>
     <item>
       <title>Halioticida noduliformans infection in eggs of lobster (Homarus gammarus) reveals its generalist parasitic strategy in marine invertebrates</title>
-      <link>//localhost:1313/publications/holt_2018_jip/</link>
+      <link>/publications/holt_2018_jip/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2018_jip/</guid>
+      <guid>/publications/holt_2018_jip/</guid>
       <description>Holt C, Foster R, Daniels CL, van der Giezen M, Feist SW, Stentiford GD, Bass D. A parasite exhibiting Oomycete-like morphology and pathogenesis was isolated from discoloured eggs of the European lobster (Homarus gammarus) and later found in gill tissues of adults. Group-specific Oomycete primers were designed to amplify the 18S ribosomal small subunit (SSU), which initially identified the organism as the same as the ‘Haliphthoros’ sp. NJM 0034 strain (AB178865.</description>
     </item>
   </channel>

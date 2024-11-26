@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MALVs on </title>
-    <link>//localhost:1313/tags/malvs/</link>
+    <link>/tags/malvs/</link>
     <description>Recent content in MALVs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/malvs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/malvs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multiple parallel origins of parasitic Marine Alveolates</title>
-      <link>//localhost:1313/publications/holthehenberger_2023_naturecomms/</link>
+      <link>/publications/holthehenberger_2023_naturecomms/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holthehenberger_2023_naturecomms/</guid>
+      <guid>/publications/holthehenberger_2023_naturecomms/</guid>
       <description>Holt CC, Hehenberger E, Tikhonenkov DV, Jacko-Reynolds VKL, Okamoto N, Cooney EC, Irwin NAT, Keeling PK. *Equal Contribution Microbial eukaryotes are important components of marine ecosystems, and the Marine Alveolates (MALVs) are consistently both abundant and diverse in global environmental sequencing surveys. MALVs are dinoflagellates that are thought to be parasites of other protists and animals, but the lack of data beyond ribosomal RNA gene sequences from all but a few described species means much of their biology and evolution remain unknown.</description>
     </item>
     <item>
       <title>Microscopic marine invertebrates are reservoirs for cryptic and diverse protists and fungi</title>
-      <link>//localhost:1313/publications/holt_2023_microbiome/</link>
+      <link>/publications/holt_2023_microbiome/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/holt_2023_microbiome/</guid>
+      <guid>/publications/holt_2023_microbiome/</guid>
       <description>Holt CC, Boscaro V, Van Steenkiste NW, Herranz M, Mathur V, Irwin NA, Buckholtz G, Leander BS, Keeling PJ. Background: Microbial symbioses in marine invertebrates are commonplace. However, characterizations of invertebrate microbiomes are vastly outnumbered by those of vertebrates. Protists and fungi run the gamut of symbiosis, yet eukaryotic microbiome sequencing is rarely undertaken, with much of the focus on bacteria. To explore the importance of microscopic marine invertebrates as potential symbiont reservoirs, we used a phylogenetic-focused approach to analyze the host-associated eukaryotic microbiomes of 220 animal specimens spanning nine different animal phyla.</description>
     </item>
   </channel>

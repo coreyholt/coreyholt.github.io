@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on </title>
-    <link>//localhost:1313/tags/r/</link>
+    <link>/tags/r/</link>
     <description>Recent content in R on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generative aRt in R</title>
-      <link>//localhost:1313/posts/ln3-09sep2024/</link>
+      <link>/posts/ln3-09sep2024/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ln3-09sep2024/</guid>
+      <guid>/posts/ln3-09sep2024/</guid>
       <description>Meet ✨geom_valley✨ I started writing this script at the end of 2021, inspired by The Ringer series by Dmitri Cherniak and Thomas Lin Pedersen&amp;rsquo;s Constructive collection.&#xA;I was back home in sunny Wales and set about trying to use a series of random choices to produce a cartoon landscape. I make a lot of data visualisations in R and it occurred to me that I could use ggplot functions if I just consider components of the image in terms of points along two axes.</description>
     </item>
     <item>
       <title>Useful resources for data analysis</title>
-      <link>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</link>
+      <link>/posts/usefulresourcesformicrobiomeanalysis/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</guid>
+      <guid>/posts/usefulresourcesformicrobiomeanalysis/</guid>
       <description>Microbiomes: DADA2 I like to analyse all of my microbiome data directly in R with the DADA2 package. This is an Amplicon Sequence Variant (ASV) approach (meaning reads aren&#39;t clustered according to a similarity threshold) and relies on run-specific error models to denoise data and limit overestimations of sequence diversity. The DADA2 tutorial is a great place to start if you&#39;re interested in this method. Alternatively, you can implement DADA2 in QIIME2.</description>
     </item>
   </channel>
