@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generative aRt in R</title>
-      <link>/posts/ln3-09sep2024/</link>
+      <link>//localhost:1313/posts/ln3-09sep2024/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/ln3-09sep2024/</guid>
+      <guid>//localhost:1313/posts/ln3-09sep2024/</guid>
       <description>Meet ✨geom_valley✨ I started writing this script at the end of 2021, inspired by The Ringer series by Dmitri Cherniak and Thomas Lin Pedersen&amp;rsquo;s Constructive collection.&#xA;I was back home in sunny Wales and set about trying to use a series of random choices to produce a cartoon landscape. I make a lot of data visualisations in R and it occurred to me that I could use ggplot functions if I just consider components of the image in terms of points along two axes.</description>
     </item>
     <item>
       <title>An unconventional host</title>
-      <link>/posts/ln2-12aug2024/</link>
+      <link>//localhost:1313/posts/ln2-12aug2024/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/ln2-12aug2024/</guid>
+      <guid>//localhost:1313/posts/ln2-12aug2024/</guid>
       <description>Beyond a handful of model or commercial species, invertebrate microbiomes are vastly understudied. However, these animals, and these animal-microbe interactions in particular, are vital for ecosystem functioning.&#xA;Many people will be unfamiliar with the tiny invertebrates that support aquatic environments. Therefore, stressing the importance of these host-microbe interactions and their implications for wider environmental health can be challenging.&#xA;Artemia, or brine shrimp, are incredibly important for aquatic food production (thousands of tonnes are produced each year as feed for other animals) but are perhaps better known to some by another name: Sea-Monkeys.</description>
     </item>
     <item>
       <title>Useful resources for data analysis</title>
-      <link>/posts/usefulresourcesformicrobiomeanalysis/</link>
+      <link>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/usefulresourcesformicrobiomeanalysis/</guid>
+      <guid>//localhost:1313/posts/usefulresourcesformicrobiomeanalysis/</guid>
       <description>Microbiomes: DADA2 I like to analyse all of my microbiome data directly in R with the DADA2 package. This is an Amplicon Sequence Variant (ASV) approach (meaning reads aren&#39;t clustered according to a similarity threshold) and relies on run-specific error models to denoise data and limit overestimations of sequence diversity. The DADA2 tutorial is a great place to start if you&#39;re interested in this method. Alternatively, you can implement DADA2 in QIIME2.</description>
     </item>
     <item>
       <title>I made a website</title>
-      <link>/posts/ln1-27june2024/</link>
+      <link>//localhost:1313/posts/ln1-27june2024/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/ln1-27june2024/</guid>
+      <guid>//localhost:1313/posts/ln1-27june2024/</guid>
       <description>Now seemed like a good time to make a website. I wanted something that could be easily updated and personalised (with floating protists and invertebrates).&#xA;I landed on Hugo, a popular framework for generating static sites, and messed around with the winston-theme as best as I could. Don&amp;rsquo;t laugh at my butchered html and css files.</description>
     </item>
   </channel>

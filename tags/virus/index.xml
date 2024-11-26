@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virus on </title>
-    <link>/tags/virus/</link>
+    <link>//localhost:1313/tags/virus/</link>
     <description>Recent content in Virus on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/virus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/virus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gut health in European lobster-the gut microbiome as a health marker in offshore sea culture</title>
-      <link>/publications/holt_2019_thesis/</link>
+      <link>//localhost:1313/publications/holt_2019_thesis/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publications/holt_2019_thesis/</guid>
+      <guid>//localhost:1313/publications/holt_2019_thesis/</guid>
       <description>Holt CC. The European lobster (Homarus gammarus) represents one of the United Kingdom’s most valuable fisheries. High market prices and a relatively limited fishery suggests that the species may be a good candidate for aquaculture and/or further stock enhancement. Disease is one of the biggest threats to the development and progression of sustainable aquaculture. However very little is known in regard to diseases of the European lobster. Therefore, better characterisation of potential pathogens is vital to prevent collapse of any future culture initiative.</description>
     </item>
     <item>
       <title>Spatial and temporal axes impact ecology of the gut microbiome in juvenile European lobster (Homarus gammarus)</title>
-      <link>/publications/holt_2019_isme/</link>
+      <link>//localhost:1313/publications/holt_2019_isme/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publications/holt_2019_isme/</guid>
+      <guid>//localhost:1313/publications/holt_2019_isme/</guid>
       <description>Holt CC, Van der Giezen M, Daniels CL, Stentiford GD, Bass D. Microbial communities within the gut can markedly impact host health and fitness. To what extent environmental influences affect the differential distribution of these microbial populations may therefore significantly impact the successful farming of the host. Using a sea-based container culture (SBCC) system for the on-growing of European lobster (Homarus gammarus), we tracked the bacterial gut microbiota over a 1-year period.</description>
     </item>
     <item>
       <title>The first clawed lobster virus Homarus gammarus nudivirus (HgNV n. sp.) expands the diversity of the Nudiviridae</title>
-      <link>/publications/holt_2021_scireports/</link>
+      <link>//localhost:1313/publications/holt_2021_scireports/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publications/holt_2021_scireports/</guid>
+      <guid>//localhost:1313/publications/holt_2021_scireports/</guid>
       <description>Holt CC, Stone M, Bass D, Bateman KS, van Aerle R, Daniels CL, van der Giezen M, Ross SH, Hooper C, Stentiford GD. Viral diseases of crustaceans are increasingly recognised as challenges to shellfish farms and fisheries. Here we describe the first naturally-occurring virus reported in any clawed lobster species. Hypertrophied nuclei with emarginated chromatin, characteristic histopathological lesions of DNA virus infection, were observed within the hepatopancreatic epithelial cells of juvenile European lobsters (Homarus gammarus).</description>
     </item>
   </channel>
