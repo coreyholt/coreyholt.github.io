@@ -400,8 +400,7 @@ ul {
     height: 30px;
     border-radius: 50%;
     display: inline-block;
-    vertical-align: middle;
-    border: 1px solid var(--heading-color); }
+    vertical-align: middle; }
   .author .author-name {
     display: inline-block;
     vertical-align: middle;
