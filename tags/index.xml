@@ -6,20 +6,27 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protists</title>
+      <link>/tags/protists/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/protists/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ARt</title>
       <link>/tags/art/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/tags/art/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>/tags/news/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/news/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +76,6 @@
       <link>/tags/evolution/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/tags/evolution/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Protists</title>
-      <link>/tags/protists/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/protists/</guid>
       <description></description>
     </item>
     <item>
