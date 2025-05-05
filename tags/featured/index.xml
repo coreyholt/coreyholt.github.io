@@ -6,8 +6,15 @@
     <description>Recent content in Featured on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phylogenomic resolution of marine to freshwater dinoflagellate transitions</title>
+      <link>/publications/mtawali_2025_isme/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/mtawali_2025_isme/</guid>
+      <description>Mtawali M, Cooney EC, Adams J, Jin J, Holt CC, Keeling PK. Dinoflagellates are an abundant and diverse group of protists that inhabit aquatic environments worldwide. They are characterized by numerous unique cellular and molecular traits, and have adapted to an unusually broad range of life strategies, including phototrophy, heterotrophy, parasitism, and all combinations of these. For most microbial groups, transitions from marine to freshwater environments are relatively rare, as changes in salinity are thought to lead to significant osmotic challenges that are difficult for the cell to overcome.</description>
+    </item>
     <item>
       <title>Useful resources for data analysis</title>
       <link>/posts/usefulresourcesformicrobiomeanalysis/</link>

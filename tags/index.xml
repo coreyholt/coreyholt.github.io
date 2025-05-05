@@ -6,20 +6,41 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>News</title>
-      <link>/tags/news/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/news/</guid>
+      <title>Dinoflagellates</title>
+      <link>/tags/dinoflagellates/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/dinoflagellates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>/tags/featured/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freshwater</title>
+      <link>/tags/freshwater/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/freshwater/</guid>
       <description></description>
     </item>
     <item>
       <title>Protists</title>
       <link>/tags/protists/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>/tags/protists/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/news/</guid>
       <description></description>
     </item>
     <item>
@@ -55,20 +76,6 @@
       <link>/tags/outreach/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/tags/outreach/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Featured</title>
-      <link>/tags/featured/</link>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/featured/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dinoflagellates</title>
-      <link>/tags/dinoflagellates/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/dinoflagellates/</guid>
       <description></description>
     </item>
     <item>
