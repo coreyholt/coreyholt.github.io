@@ -4,37 +4,37 @@
     <title>News on </title>
     <link>/tags/news/</link>
     <description>Recent content in News on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Come join the Holt lab</title>
       <link>/posts/ln4-23jan2025/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
       <guid>/posts/ln4-23jan2025/</guid>
-      <description>I&amp;rsquo;m you&amp;rsquo;re interested in protist parasites and keen to learn some fun bioinformatics, take a look at our PhD project currently being advertised!&#xA;The project &amp;ldquo;Identifying signatures of host specificity in protist parasites genomes&amp;rdquo; aims to leverage existing genomic data to model predictors of host range. Initially computer-based, the student will then test their predictions in the lab and in the field, looking for protists of interest in newly predicted hosts.</description>
+      <description>&lt;p&gt;If you&amp;rsquo;re interested in protist parasites and keen to learn some fun bioinformatics, take a look at our PhD project &lt;a href=&#34;https://www.findaphd.com/phds/project/identifying-signatures-of-host-specificity-in-protist-parasites-genomes/?p181735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;currently being advertised!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The project &lt;em&gt;&amp;ldquo;Identifying signatures of host specificity in protist parasites genomes&amp;rdquo;&lt;/em&gt; aims to leverage existing genomic data to model predictors of host range. Initially computer-based, the student will then test their predictions in the lab and in the field, looking for protists of interest in newly predicted hosts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Generative aRt in R</title>
       <link>/posts/ln3-09sep2024/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/posts/ln3-09sep2024/</guid>
-      <description>Meet ✨geom_valley✨ I started writing this script at the end of 2021, inspired by The Ringer series by Dmitri Cherniak and Thomas Lin Pedersen&amp;rsquo;s Constructive collection.&#xA;I was back home in sunny Wales and set about trying to use a series of random choices to produce a cartoon landscape. I make a lot of data visualisations in R and it occurred to me that I could use ggplot functions if I just consider components of the image in terms of points along two axes.</description>
+      <description>&lt;div style=&#34;text-align: left;&#xA;  padding: 20px;&#xA;  margin-bottom: 40px; background: repeating-linear-gradient(&#xA;  -45deg,&#xA;  rgba(254, 254, 254, 0), &#xA;  rgba(254, 254, 254, 0) 20px,&#xA;  rgba(220, 220, 220, 0.5) 20px,&#xA;  rgba(220, 220, 220, 0.5) 40px&#xA;);&#xA;  box-sizing: border-box;&#xA;  max-width: 100%;&#34; &gt; &#xA;&lt;h1 id=&#34;meet-geom_valley&#34;&gt;Meet ✨geom_valley✨&lt;/h1&gt;&#xA;&lt;p&gt;I started writing this script at the end of 2021, inspired by &lt;a href=&#34;https://opensea.io/collection/ringers-by-dmitri-cherniak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Ringer&lt;/a&gt; series by Dmitri Cherniak and Thomas Lin Pedersen&amp;rsquo;s &lt;a href=&#34;https://thomaslinpedersen.art/work/constructive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Constructive&lt;/a&gt; collection.&lt;/p&gt;&#xA;&lt;p&gt;I was back home in sunny Wales and set about trying to use a series of random choices to produce a cartoon landscape. I make a lot of data visualisations in R and it occurred to me that I could use ggplot functions if I just consider components of the image in terms of points along two axes. I&amp;rsquo;d then add some leeway along those axes to include some variation during multiple iterations.&#xA;Admittedly, I haven&amp;rsquo;t worked on this in a good while but eventually I settled on the very messy R script I call &lt;i&gt;geom_valley&lt;/i&gt;. How does it work?&lt;/div&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>An unconventional host</title>
       <link>/posts/ln2-12aug2024/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/posts/ln2-12aug2024/</guid>
-      <description>Beyond a handful of model or commercial species, invertebrate microbiomes are vastly understudied. However, these animals, and these animal-microbe interactions in particular, are vital for ecosystem functioning.&#xA;Many people will be unfamiliar with the tiny invertebrates that support aquatic environments. Therefore, stressing the importance of these host-microbe interactions and their implications for wider environmental health can be challenging.&#xA;Artemia, or brine shrimp, are incredibly important for aquatic food production (thousands of tonnes are produced each year as feed for other animals) but are perhaps better known to some by another name: Sea-Monkeys.</description>
+      <description>&lt;p&gt;Beyond a handful of model or commercial species, &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850079/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invertebrate microbiomes are vastly understudied&lt;/a&gt;. However, these animals, and these animal-microbe interactions in particular, are vital for ecosystem functioning.&lt;/p&gt;&#xA;&lt;p&gt;Many people will be unfamiliar with the tiny invertebrates that support aquatic environments. Therefore, stressing the importance of these host-microbe interactions and their implications for wider environmental health can be challenging.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Artemia&lt;/em&gt;, or brine shrimp, are incredibly important for aquatic food production (thousands of tonnes are produced each year as feed for other animals) but are perhaps better known to some by another name: Sea-Monkeys.&#xA;Many of us have peered into Sea-Monkey tanks, willing our &amp;ldquo;instant pets&amp;rdquo; to finally hatch. Like a handful of other animals, brine shrimp can enter a period of suspended development, and this &amp;ldquo;diapause&amp;rdquo; is broken when the eggs are submerged in water. This means dehydrated eggs, which are remarkably stable, can be easily transported and reconstituted at a later date (be it in small, novelty tanks or otherwise).&lt;/p&gt;</description>
     </item>
     <item>
       <title>I made a website</title>
       <link>/posts/ln1-27june2024/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/posts/ln1-27june2024/</guid>
-      <description>Now seemed like a good time to make a website. I wanted something that could be easily updated and personalised (with floating protists and invertebrates).&#xA;I landed on Hugo, a popular framework for generating static sites, and messed around with the winston-theme as best as I could. Don&amp;rsquo;t laugh at my butchered html and css files.</description>
+      <description>&lt;p&gt;Now seemed like a good time to make a website. I wanted something that could be easily updated and personalised (with floating protists and invertebrates).&lt;/p&gt;&#xA;&lt;p&gt;I landed on &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, a popular framework for generating static sites, and messed around with the &lt;a href=&#34;https://github.com/zerostaticthemes/hugo-winston-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;winston-theme&lt;/a&gt; as best as I could. Don&amp;rsquo;t laugh at my butchered html and css files.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

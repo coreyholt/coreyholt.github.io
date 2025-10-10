@@ -4,7 +4,7 @@
     <title>ARt on </title>
     <link>/tags/art/</link>
     <description>Recent content in ARt on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>/posts/ln3-09sep2024/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/posts/ln3-09sep2024/</guid>
-      <description>Meet ✨geom_valley✨ I started writing this script at the end of 2021, inspired by The Ringer series by Dmitri Cherniak and Thomas Lin Pedersen&amp;rsquo;s Constructive collection.&#xA;I was back home in sunny Wales and set about trying to use a series of random choices to produce a cartoon landscape. I make a lot of data visualisations in R and it occurred to me that I could use ggplot functions if I just consider components of the image in terms of points along two axes.</description>
+      <description>&lt;div style=&#34;text-align: left;&#xA;  padding: 20px;&#xA;  margin-bottom: 40px; background: repeating-linear-gradient(&#xA;  -45deg,&#xA;  rgba(254, 254, 254, 0), &#xA;  rgba(254, 254, 254, 0) 20px,&#xA;  rgba(220, 220, 220, 0.5) 20px,&#xA;  rgba(220, 220, 220, 0.5) 40px&#xA;);&#xA;  box-sizing: border-box;&#xA;  max-width: 100%;&#34; &gt; &#xA;&lt;h1 id=&#34;meet-geom_valley&#34;&gt;Meet ✨geom_valley✨&lt;/h1&gt;&#xA;&lt;p&gt;I started writing this script at the end of 2021, inspired by &lt;a href=&#34;https://opensea.io/collection/ringers-by-dmitri-cherniak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Ringer&lt;/a&gt; series by Dmitri Cherniak and Thomas Lin Pedersen&amp;rsquo;s &lt;a href=&#34;https://thomaslinpedersen.art/work/constructive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Constructive&lt;/a&gt; collection.&lt;/p&gt;&#xA;&lt;p&gt;I was back home in sunny Wales and set about trying to use a series of random choices to produce a cartoon landscape. I make a lot of data visualisations in R and it occurred to me that I could use ggplot functions if I just consider components of the image in terms of points along two axes. I&amp;rsquo;d then add some leeway along those axes to include some variation during multiple iterations.&#xA;Admittedly, I haven&amp;rsquo;t worked on this in a good while but eventually I settled on the very messy R script I call &lt;i&gt;geom_valley&lt;/i&gt;. How does it work?&lt;/div&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
