@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cercozoa on </title>
+    <link>/tags/cercozoa/</link>
+    <description>Recent content in Cercozoa on </description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/cercozoa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phylogenomic tree of Cercozoa based on single-cell transcriptomes from 100 uncultured cells</title>
+      <link>/publications/lax_2026_bmcbiol/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publications/lax_2026_bmcbiol/</guid>
+      <description>&lt;h3 id=&#34;lax-g-cooney-ec-zlatogursky-v-mtawali-m-okamoto-n-jacko-reynolds-vkl-bjornson-s-holt-cc-hurdeal-vg-giannotti-d-keeling-pk&#34;&gt;Lax, G, Cooney EC, Zlatogursky V, Mtawali M, Okamoto N, Jacko-Reynolds VKL, Bjornson S, &lt;u&gt;Holt CC&lt;/u&gt;, Hurdeal VG, Giannotti D, Keeling PK.&lt;/h3&gt;&#xA;&lt;p&gt;Background: Cercozoa are single-celled eukaryotes (protists) and are part of the supergroup Rhizaria. Cercozoans have vastly different morphologies and are defined by their phylogenetic affinity. While the group includes some well-known and well-researched taxa, like the chlorarachniophytes, we know very little about the remainder. Most of these are predatory protists found in soil and marine sediments, but they also include marine plankton and are underrepresented in multigene phylogenetic trees of Rhizaria, thus missing much of their diversity. We employed single-cell transcriptomics to broadly sample this uncultured diversity of Cercozoa.&#xA;Results: We generated a taxon-comprehensive multigene tree of Cercozoa that includes many previously unsampled groups, increasing taxon sampling by more than 300%. We report five novel and previously unknown lineages and two lineages that were known only from environmental sequences. Several previously established clades are recovered, like Thecofilosea, Phaeodaria, and Thaumatomonadida, but others, like the class Imbricatea, are not. We find both single and double amino-acid insertions between polyubiquitin monomers in all our assemblies, suggesting a complex pattern across Cercozoa.&#xA;Conclusions: A single-cell transcriptomics approach generated a wealth of molecular and morphological image data for phylogenomics. This phylogenetic framework is in turn the groundwork for additional analyses to further our understanding of the basic biology of Cercozoa and their diversity. This study also highlights the number of previously unsampled taxa and completely novel lineages in Rhizaria and Cercozoa in particular.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
