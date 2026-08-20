@@ -6,8 +6,36 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apicomplexa</title>
+      <link>/tags/apicomplexa/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/apicomplexa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parasites</title>
+      <link>/tags/parasites/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/parasites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protists</title>
+      <link>/tags/protists/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/protists/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Single-Cell</title>
+      <link>/tags/single-cell/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/single-cell/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cercozoa</title>
       <link>/tags/cercozoa/</link>
@@ -20,20 +48,6 @@
       <link>/tags/featured/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/tags/featured/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Protists</title>
-      <link>/tags/protists/</link>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/protists/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Single-Cell</title>
-      <link>/tags/single-cell/</link>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/single-cell/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +111,6 @@
       <link>/tags/evolution/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/tags/evolution/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Apicomplexa</title>
-      <link>/tags/apicomplexa/</link>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/apicomplexa/</guid>
       <description></description>
     </item>
     <item>
