@@ -6,8 +6,15 @@
     <description>Recent content in coreycholt on </description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evolution of complex organelles in ocelloid-bearing dinoflagellates</title>
+      <link>/publications/cooney_2026_pnasnexus/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publications/cooney_2026_pnasnexus/</guid>
+      <description>&lt;h3 id=&#34;cooney-ec-holt-cc-lax-g-keeling-pj&#34;&gt;Cooney EC, &lt;u&gt;Holt CC&lt;/u&gt;, Lax G, Keeling PJ.&lt;/h3&gt;&#xA;&lt;p&gt;Warnowiid dinoflagellates are known for possessing two of the most complex structures known in single cells: multiprojectile nematocysts and the camera eye-like ocelloid. The rarity of warnowiids and their intractability in culture have stymied efforts to understand the function and role of these structures. Recent single-cell transcriptome sequencing efforts revealed that the plastid within the ocelloid complex (analogous to the retina in an animal eye) may have lost photosystem II (PSII), while retaining photosystem I as a putative light-sensing mechanism. However, this finding was produced from only 18 cells across five genera and did not include many of the known lineages within this group. To interrogate this finding, we generated single-cell transcriptomes for 12 additional species, including from two previously unsampled genera, collected from subarctic and tropical environments. A search for photosynthesis-related genes across all taxa supports previous findings that PSII has likely been lost in the warnowiid ocelloid plastid. Additionally, our updated phylogenomic analysis reveals that warnowiids can be divided into two major subclades based on the possession of nematocysts: armed and unarmed. Moreover, ocelloid size, shape, position, and gene expression are distinct between armed and unarmed warnowiids and between genera in some cases, indicating that ocelloid function may differ between lineages and this may be linked to differences in energy and nutritional strategy.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Phylogenomics reveals multiple evolutionary lineages of marine crustacean-infecting gregarine apicomplexans</title>
       <link>/publications/na_2026_scireports/</link>

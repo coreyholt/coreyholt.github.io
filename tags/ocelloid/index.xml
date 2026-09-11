@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ocelloid on </title>
+    <link>/tags/ocelloid/</link>
+    <description>Recent content in Ocelloid on </description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ocelloid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evolution of complex organelles in ocelloid-bearing dinoflagellates</title>
+      <link>/publications/cooney_2026_pnasnexus/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publications/cooney_2026_pnasnexus/</guid>
+      <description>&lt;h3 id=&#34;cooney-ec-holt-cc-lax-g-keeling-pj&#34;&gt;Cooney EC, &lt;u&gt;Holt CC&lt;/u&gt;, Lax G, Keeling PJ.&lt;/h3&gt;&#xA;&lt;p&gt;Warnowiid dinoflagellates are known for possessing two of the most complex structures known in single cells: multiprojectile nematocysts and the camera eye-like ocelloid. The rarity of warnowiids and their intractability in culture have stymied efforts to understand the function and role of these structures. Recent single-cell transcriptome sequencing efforts revealed that the plastid within the ocelloid complex (analogous to the retina in an animal eye) may have lost photosystem II (PSII), while retaining photosystem I as a putative light-sensing mechanism. However, this finding was produced from only 18 cells across five genera and did not include many of the known lineages within this group. To interrogate this finding, we generated single-cell transcriptomes for 12 additional species, including from two previously unsampled genera, collected from subarctic and tropical environments. A search for photosynthesis-related genes across all taxa supports previous findings that PSII has likely been lost in the warnowiid ocelloid plastid. Additionally, our updated phylogenomic analysis reveals that warnowiids can be divided into two major subclades based on the possession of nematocysts: armed and unarmed. Moreover, ocelloid size, shape, position, and gene expression are distinct between armed and unarmed warnowiids and between genera in some cases, indicating that ocelloid function may differ between lineages and this may be linked to differences in energy and nutritional strategy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
