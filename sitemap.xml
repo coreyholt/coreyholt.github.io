@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/featured/</loc>
+    <lastmod>2026-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/news/</loc>
+    <lastmod>2026-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/ln6-02oct2026/</loc>
+    <lastmod>2026-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/dinoflagellates/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
@@ -20,9 +32,6 @@
     <loc>/tags/single-cell/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/apicomplexa/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,16 +44,10 @@
     <loc>/tags/cercozoa/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/featured/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publications/lax_2026_bmcbiol/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/ln5-21nov2025/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/news/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/ln4-09oct2025/</loc>
